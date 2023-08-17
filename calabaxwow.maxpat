@@ -40,6 +40,19 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"attr" : "draw_mode",
+					"id" : "obj-20",
+					"maxclass" : "attrui",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 400.0, 592.0, 208.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"attr" : "mix",
 					"id" : "obj-18",
 					"maxclass" : "attrui",
@@ -113,11 +126,11 @@
 								"box" : 								{
 									"id" : "obj-5",
 									"maxclass" : "newobj",
-									"numinlets" : 1,
+									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 309.0, 16.0, 45.0, 22.0 ],
-									"text" : "sphere"
+									"patching_rect" : [ 309.0, 16.0, 35.0, 22.0 ],
+									"text" : "torus"
 								}
 
 							}
@@ -188,7 +201,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 208.0, 336.0, 41.0, 22.0 ],
+					"patching_rect" : [ 208.0, 368.0, 41.0, 22.0 ],
 					"text" : "jit.gen"
 				}
 
@@ -519,7 +532,7 @@
 					"numinlets" : 9,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 272.0, 576.0, 205.0, 23.0 ],
+					"patching_rect" : [ 302.5, 656.0, 205.0, 23.0 ],
 					"text" : "jit.gl.mesh @draw_mode triangles"
 				}
 
@@ -664,6 +677,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-31", 0 ],
 					"source" : [ "obj-2", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-21", 0 ],
+					"source" : [ "obj-20", 0 ]
 				}
 
 			}

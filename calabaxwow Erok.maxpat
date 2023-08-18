@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 450.0, 85.0, 635.0, 847.0 ],
+		"rect" : [ 450.0, 85.0, 926.0, 847.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,18 @@
 		"subpatcher_template" : "ELS Default",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"linecount" : 6,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 416.0, 160.0, 467.0, 100.0 ],
+					"text" : "To-do\n- hi-res texture, less computer graphic-y\n- cool deformation abilities I can drive from sine waves etc.\n- have selected vertex or face points output their x/y/z coordinates to spatialize sonification\n- ability to mix the animation with background pics and fade to videos (with sliders)\n"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontsize" : 12.0,
 					"id" : "obj-31",

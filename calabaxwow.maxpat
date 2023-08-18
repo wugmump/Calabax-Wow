@@ -579,14 +579,14 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-35",
-					"linecount" : 2,
+					"linecount" : 5,
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "bang", "" ],
-					"patching_rect" : [ 64.0, 121.5, 205.0, 35.0 ],
+					"patching_rect" : [ 64.0, 128.0, 96.0, 76.0 ],
 					"style" : "newobjYellow-1",
-					"text" : "jit.world @erase_color 0.5 0.3 0.2 1. @output_texture 1"
+					"text" : "jit.world @erase_color 0.5 0.3 0.2 1. @output_texture 1 @enable 1"
 				}
 
 			}

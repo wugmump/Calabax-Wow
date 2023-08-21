@@ -311,6 +311,7 @@
 						"style" : "",
 						"subpatcher_template" : "ELS Default",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"attr" : "fade",
@@ -641,7 +642,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 608.0, 768.0, 245.0, 22.0 ],
-					"text" : "3958 61 256 781 479 383 181 131"
+					"text" : "3958 61 256 673 3462 383 181 131"
 				}
 
 			}
@@ -894,6 +895,7 @@
 						"style" : "",
 						"subpatcher_template" : "ELS Default",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-10",
@@ -938,19 +940,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 246.0, 267.0, 263.0, 22.0 ],
-									"text" : "3958 61 256 781 479 383 181 131"
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"id" : "obj-1",
-									"maxclass" : "newobj",
-									"numinlets" : 1,
-									"numoutlets" : 1,
-									"outlettype" : [ "" ],
-									"patching_rect" : [ 758.0, 899.0, 25.0, 22.0 ],
-									"text" : "iter"
+									"text" : "3958 61 256 673 3462 383 181 131"
 								}
 
 							}
@@ -973,8 +963,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_matrix", "" ],
-									"patching_rect" : [ 144.0, 709.0, 457.0, 22.0 ],
-									"text" : "jit.gl.gridshape @scale 0.06 0.06 0.06 @color 1 0 0 1 @shape sphere @automatic 0"
+									"patching_rect" : [ 144.0, 709.0, 669.0, 22.0 ],
+									"text" : "jit.gl.gridshape @scale 0.06 0.06 0.06 @color 1 0 0 1 @shape sphere @automatic 0 @smooth_shading 1 @depth_enable 1"
 								}
 
 							}
@@ -3087,8 +3077,8 @@
 					"numinlets" : 9,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 144.0, 976.0, 642.0, 23.0 ],
-					"text" : "jit.gl.mesh @draw_mode triangles @gl_color 1 1 1 1 @texture mineral @smooth_shading 1 @blend_enable 1"
+					"patching_rect" : [ 144.0, 976.0, 748.0, 23.0 ],
+					"text" : "jit.gl.mesh @draw_mode triangles @gl_color 1 1 1 1 @texture mineral @smooth_shading 1 @blend_enable 1 @depth_enable 1"
 				}
 
 			}

@@ -40,6 +40,19 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"attr" : "poly_mode",
+					"id" : "obj-64",
+					"maxclass" : "attrui",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 544.0, 928.0, 192.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-60",
 					"maxclass" : "newobj",
 					"numinlets" : 3,
@@ -367,7 +380,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 429.0, 179.0, 458.0, 35.0 ],
-									"text" : "0.677646 -0.560263 -0.934776 0.131253 0.995014 0.325403 -0.845672 -0.71352 0.518206"
+									"text" : "0.966196 -0.027328 -0.950667 0.567528 0.62818 -0.92448 -0.102862 0.982929 -0.455669"
 								}
 
 							}
@@ -392,7 +405,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 191.5, 451.0, 97.0, 49.0 ],
-									"text" : "1.709882 0.595763 0.258702"
+									"text" : "1.969577 1.075404 0.244399"
 								}
 
 							}
@@ -919,6 +932,7 @@
 						"style" : "",
 						"subpatcher_template" : "ELS Default",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"attr" : "fade",
@@ -1333,7 +1347,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 1344.0, 288.0, 979.0, 969.0 ],
+						"rect" : [ 1074.0, 288.0, 979.0, 969.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1370,7 +1384,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 810.0, 542.0, 50.0, 89.0 ],
-									"text" : "-0.294229 0.053029 -0.430979"
+									"text" : "-0.39779 -0.825666 -1.091397"
 								}
 
 							}
@@ -1417,7 +1431,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 555.0, 701.0, 418.0, 20.0 ],
+									"patching_rect" : [ 433.0, 751.0, 418.0, 20.0 ],
 									"text" : "<---- ERIC THIS NAMED MATRIX CONTAINS THE FOLLOWED VERTICES"
 								}
 
@@ -4120,6 +4134,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
 					"source" : [ "obj-6", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-21", 0 ],
+					"source" : [ "obj-64", 0 ]
 				}
 
 			}

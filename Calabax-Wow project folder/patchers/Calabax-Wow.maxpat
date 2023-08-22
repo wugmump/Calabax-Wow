@@ -394,7 +394,6 @@
 			}
 , 			{
 				"box" : 				{
-					"autorestore" : "calabaxwow Joshua.json",
 					"id" : "obj-68",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -433,7 +432,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 829.0, 339.0, 150.0, 47.0 ],
+					"patching_rect" : [ 829.0, 339.0, 151.0, 47.0 ],
 					"text" : "Smear fade! all the way to the left goes back to erase_color"
 				}
 
@@ -804,7 +803,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 429.0, 179.0, 458.0, 35.0 ],
-									"text" : "-0.527045 -0.444448 0.995532 -0.604933 -0.357879 0.982169 -0.677415 -0.268113 0.96003"
+									"text" : "-0.133744 -0.964225 0.391663 0.85946 -0.621558 -0.693201 0.806981 0.477343 -0.934664"
 								}
 
 							}
@@ -829,7 +828,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 191.5, 451.0, 97.0, 49.0 ],
-									"text" : "0.62566 0.699997 1.995979"
+									"text" : "0.97963 0.232197 1.452496"
 								}
 
 							}
@@ -1845,7 +1844,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 810.0, 542.0, 50.0, 89.0 ],
-									"text" : "1.756006 0.420866 0.001687"
+									"text" : "0.135547 0.898631 -0.583519"
 								}
 
 							}
@@ -4758,8 +4757,8 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "ease.chooser.maxpat",
-				"bootpath" : "~/Documents/eric singer/cyrender/Calabax-Wow-/Calabax-Wow/patchers",
-				"patcherrelativepath" : "../../Calabax-Wow/patchers",
+				"bootpath" : "~/Documents/eric singer/cyrender/Calabax-Wow-/Calabax-Wow project folder/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}

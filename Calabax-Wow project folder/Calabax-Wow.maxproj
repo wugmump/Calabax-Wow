@@ -2,7 +2,7 @@
 	"name" : "Calabax-Wow",
 	"version" : 1,
 	"creationdate" : 3775521019,
-	"modificationdate" : 3775521049,
+	"modificationdate" : 3775522171,
 	"viewrect" : [ 25.0, 106.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,16 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"*CyAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/cyrender/Calabax-Wow-/Audio",
+					"projectrelativepath" : "./Audio"
+				}
+
 			}
 
 		}
@@ -27,6 +37,10 @@
 		}
 ,
 		"externals" : 		{
+
+		}
+,
+		"other" : 		{
 
 		}
 

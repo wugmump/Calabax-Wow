@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 5,
-			"revision" : 5,
+			"minor" : 6,
+			"revision" : 0,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 79.0, 463.0, 407.0 ],
+		"rect" : [ 34.0, 87.0, 463.0, 407.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -55,7 +55,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "multichannelsignal" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 13.57862707743277, 128.0, 59.0, 22.0 ],
 					"text" : "CyTone 1"
 				}
@@ -72,8 +72,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
-							"revision" : 5,
+							"minor" : 6,
+							"revision" : 0,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -447,8 +447,6 @@
  ],
 		"parameters" : 		{
 			"obj-35" : [ "number", "number", 0 ],
-			"obj-5::obj-10" : [ "vst~[10]", "vst~[4]", 0 ],
-			"obj-5::obj-12" : [ "vst~[11]", "vst~[1]", 0 ],
 			"parameterbanks" : 			{
 
 			}
@@ -456,42 +454,7 @@
 			"inherited_shortname" : 1
 		}
 ,
-		"dependency_cache" : [ 			{
-				"name" : "Blue Cat's Chorus 4 (Mono).maxsnap",
-				"bootpath" : "~/Documents/Max 8/Snapshots",
-				"patcherrelativepath" : "../../Max 8/Snapshots",
-				"type" : "mx@s",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Blue Cat's Phaser 3 (Mono).maxsnap",
-				"bootpath" : "~/Documents/Max 8/Snapshots",
-				"patcherrelativepath" : "../../Max 8/Snapshots",
-				"type" : "mx@s",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "CyTone.maxpat",
-				"bootpath" : "~/Documents/Max Projects/Europe 2023 Audio",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "FwdArgs.maxpat",
-				"bootpath" : "~/Documents/Max Projects/Europe 2023 Audio",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "pan~.maxpat",
-				"bootpath" : "~/Documents/Max Projects/Europe 2023 Audio",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
- ],
+		"dependency_cache" : [  ],
 		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "ELS",

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 341.0, 132.0, 807.0, 686.0 ],
+		"rect" : [ 341.0, 132.0, 833.0, 807.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,149 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-37",
+					"maxclass" : "newobj",
+					"numinlets" : 5,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 560.0, 232.0, 105.0, 22.0 ],
+					"text" : "zmap 0.3 0.7 0. 1."
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-34",
+					"maxclass" : "newobj",
+					"numinlets" : 5,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 688.0, 232.0, 105.0, 22.0 ],
+					"text" : "zmap 0.2 0.6 0. 1."
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-30",
+					"maxclass" : "newobj",
+					"numinlets" : 5,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 432.0, 232.0, 105.0, 22.0 ],
+					"text" : "zmap 0.3 0.7 0. 1."
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-24",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 432.0, 48.0, 53.0, 22.0 ],
+					"text" : "route #1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-23",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 432.0, 16.0, 63.0, 22.0 ],
+					"text" : "r followers"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-16",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 352.0, 448.0, 79.0, 22.0 ],
+					"text" : "r reload_args"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-22",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "float" ],
+					"patching_rect" : [ 112.0, 48.0, 31.0, 22.0 ],
+					"text" : "float"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-36",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 128.0, 752.0, 104.0, 22.0 ],
+					"text" : "send~ audio_right"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-35",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 16.0, 752.0, 97.0, 22.0 ],
+					"text" : "send~ audio_left"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-26",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "multichannelsignal" ],
+					"patching_rect" : [ 16.0, 512.0, 65.0, 22.0 ],
+					"text" : "mc.dup~ 2"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 352.0, 480.0, 72.0, 22.0 ],
+					"text" : "patcherargs"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"format" : 6,
+					"id" : "obj-21",
+					"maxclass" : "flonum",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 48.0, 224.0, 50.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-2",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
@@ -57,7 +200,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 144.0, 64.0, 36.0, 22.0 ],
+					"patching_rect" : [ 144.0, 96.0, 36.0, 22.0 ],
 					"text" : "+ 0.5"
 				}
 
@@ -76,25 +219,13 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-16",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 352.0, 448.0, 72.0, 22.0 ],
-					"text" : "patcherargs"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-5",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 352.0, 480.0, 56.0, 22.0 ],
-					"text" : "FwdArgs"
+					"patching_rect" : [ 352.0, 512.0, 73.0, 22.0 ],
+					"text" : "FwdArgs #1"
 				}
 
 			}
@@ -104,7 +235,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 605.0, 160.0, 77.0, 22.0 ],
+					"patching_rect" : [ 688.0, 272.0, 77.0, 22.0 ],
 					"text" : "s #1_volume"
 				}
 
@@ -115,7 +246,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 518.5, 160.0, 75.0, 22.0 ],
+					"patching_rect" : [ 560.0, 272.0, 75.0, 22.0 ],
 					"text" : "s #1_detune"
 				}
 
@@ -126,7 +257,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 432.0, 160.0, 58.0, 22.0 ],
+					"patching_rect" : [ 432.0, 272.0, 58.0, 22.0 ],
 					"text" : "s #1_pan"
 				}
 
@@ -140,7 +271,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 605.0, 128.0, 50.0, 22.0 ]
+					"patching_rect" : [ 688.0, 192.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -153,7 +284,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 518.5, 128.0, 50.0, 22.0 ]
+					"patching_rect" : [ 560.0, 192.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -166,7 +297,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 432.0, 128.0, 50.0, 22.0 ]
+					"patching_rect" : [ 432.0, 192.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -177,20 +308,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "float", "float", "float" ],
-					"patching_rect" : [ 432.0, 96.0, 192.0, 22.0 ],
+					"patching_rect" : [ 432.0, 160.0, 275.0, 22.0 ],
 					"text" : "unpack f f f"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-34",
-					"maxclass" : "newobj",
-					"numinlets" : 0,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 432.0, 16.0, 67.0, 22.0 ],
-					"text" : "r #1_follow"
 				}
 
 			}
@@ -199,9 +318,10 @@
 					"id" : "obj-6",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 15.5, 608.0, 117.0, 22.0 ],
-					"text" : "mc.send~ audio_out"
+					"numoutlets" : 2,
+					"outlettype" : [ "signal", "signal" ],
+					"patching_rect" : [ 15.5, 720.0, 131.5, 22.0 ],
+					"text" : "mc.unpack~"
 				}
 
 			}
@@ -224,7 +344,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 171.75, 192.0, 29.5, 22.0 ],
+					"patching_rect" : [ 171.75, 256.0, 29.5, 22.0 ],
 					"text" : "1"
 				}
 
@@ -236,7 +356,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 96.0, 192.0, 29.5, 22.0 ],
+					"patching_rect" : [ 96.0, 256.0, 29.5, 22.0 ],
 					"text" : "1"
 				}
 
@@ -248,7 +368,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 171.75, 224.0, 52.0, 22.0 ],
+					"patching_rect" : [ 171.75, 288.0, 52.0, 22.0 ],
 					"text" : "gate"
 				}
 
@@ -260,7 +380,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 96.0, 224.0, 48.0, 22.0 ],
+					"patching_rect" : [ 96.0, 288.0, 48.0, 22.0 ],
 					"text" : "gate"
 				}
 
@@ -272,7 +392,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "float" ],
-					"patching_rect" : [ 346.0, 128.0, 29.5, 22.0 ],
+					"patching_rect" : [ 346.0, 192.0, 29.5, 22.0 ],
 					"text" : "t b f"
 				}
 
@@ -284,7 +404,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "float" ],
-					"patching_rect" : [ 304.0, 128.0, 29.5, 22.0 ],
+					"patching_rect" : [ 304.0, 192.0, 29.5, 22.0 ],
 					"text" : "t b f"
 				}
 
@@ -295,9 +415,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
-					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 16.0, 544.0, 49.5, 22.0 ],
-					"text" : "*~ 0."
+					"outlettype" : [ "multichannelsignal" ],
+					"patching_rect" : [ 16.0, 656.0, 53.0, 22.0 ],
+					"text" : "mc.*~ 0."
 				}
 
 			}
@@ -308,7 +428,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 77.0, 544.0, 56.0, 22.0 ],
+					"patching_rect" : [ 77.0, 656.0, 56.0, 22.0 ],
 					"text" : "r #1_pan"
 				}
 
@@ -320,7 +440,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "multichannelsignal" ],
-					"patching_rect" : [ 15.5, 576.0, 80.5, 22.0 ],
+					"patching_rect" : [ 15.5, 688.0, 80.5, 22.0 ],
 					"text" : "pan~"
 				}
 
@@ -332,7 +452,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 46.5, 512.0, 75.0, 22.0 ],
+					"patching_rect" : [ 128.0, 608.0, 75.0, 22.0 ],
 					"text" : "r #1_volume"
 				}
 
@@ -344,7 +464,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "float" ],
-					"patching_rect" : [ 304.0, 96.0, 61.0, 22.0 ],
+					"patching_rect" : [ 304.0, 160.0, 61.0, 22.0 ],
 					"text" : "unpack f f"
 				}
 
@@ -356,97 +476,94 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 224.0, 320.0, 59.0, 22.0 ],
+					"patching_rect" : [ 224.0, 384.0, 59.0, 22.0 ],
 					"text" : "r #1_duty"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"autosave" : 1,
 					"bgmode" : 0,
 					"border" : 0,
 					"clickthrough" : 0,
-					"id" : "obj-10",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 8,
-					"offset" : [ 0.0, 0.0 ],
-					"outlettype" : [ "signal", "signal", "", "list", "int", "", "", "" ],
-					"patching_rect" : [ 16.0, 480.0, 207.0, 22.0 ],
-					"save" : [ "#N", "vst~", "loaduniqueid", 0, "BC Phaser 3 VST3(Mono).vst3", ";" ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "vst~[10]",
-							"parameter_shortname" : "vst~[4]",
-							"parameter_type" : 3
+					"data" : 					{
+						"autosave" : 1,
+						"snapshot" : 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "snapshotlist",
+							"origin" : "vst~",
+							"type" : "list",
+							"subtype" : "Undefined",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "BC Phaser 3 VST3(Stereo).vst3",
+								"plugindisplayname" : "Blue Cat's Phaser 3 (Stereo)",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 0,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"blob" : "1099.VMjLgHDA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9biM43BNK4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOgFQCwDZtHjX1oWZHYGRBgjcEM0SnoGZLQmZS4DMpMkSzPUZLkGQo0DdlMTS2I1TNEiZogjYtzFS3fjTLYmKogjYtHCS3fjTKAiKogjYtbTS3fjTKAiKogjYtbUS3fjPMglKBIVL5kFRv3RZHYlKxzDNHIDSzA0PLYmKCwjctLES3I1PNYmYSwDMhMUSy3xPNglKBI1L5kFR1gjPHY2ZS8DZDMDS1gDdKkicSEVcQYUVxgCZOciXTUURAg1XqkjLh8FNrEFNHIESn4hTikWUFE0ZYYEVvbmQigCRRwDZtfmXwsFagoENwD1bvjFR2gjPHk1YVgEciYUVp0TUZQWSVkETIcUV4UkQiwDNVgkZUYTV3fjPLg1LC8TdyYkVzEDZisVRxH1a3vVX3fDZLg1LC8TdQcEV5UkQHESUrIVdqESXzASZHACRn8zMtbEV3UjUgkWPBI1P3X0XzE0UOgFRogTN1MjX14BZgcFLVkENHIzXtUkUgsFM3ElcEECVuE0UjglKnM1Y2Y0XqASZHcmKCwDZ2f1S23xULY1LVg0bUY0SnA0QZsFLVkEcLcjV0MlLWkWUFMldqwVXs0TaHYFVWgkbUcUV3fjPLg1Mn8zM2HjXmkzUXMWSs8zM2fmX5UjQisFMC8TcLIiVuQCaOcyM3EUUqo1S2biPTgWUwH1ZQ01St3BOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
+							}
+,
+							"snapshotlist" : 							{
+								"current_snapshot" : 0,
+								"entries" : [ 									{
+										"filetype" : "C74Snapshot",
+										"version" : 2,
+										"minorversion" : 0,
+										"name" : "Blue Cat's Phaser 3 (Stereo)",
+										"origin" : "BC Phaser 3 VST3(Stereo).vst3",
+										"type" : "VST3",
+										"subtype" : "MidiEffect",
+										"embed" : 0,
+										"snapshot" : 										{
+											"pluginname" : "BC Phaser 3 VST3(Stereo).vst3",
+											"plugindisplayname" : "Blue Cat's Phaser 3 (Stereo)",
+											"pluginsavedname" : "",
+											"pluginsaveduniqueid" : 0,
+											"version" : 1,
+											"isbank" : 0,
+											"isbase64" : 1,
+											"blob" : "1099.VMjLgHDA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9biM43BNK4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOgFQCwDZtHjX1oWZHYGRBgjcEM0SnoGZLQmZS4DMpMkSzPUZLkGQo0DdlMTS2I1TNEiZogjYtzFS3fjTLYmKogjYtHCS3fjTKAiKogjYtbTS3fjTKAiKogjYtbUS3fjPMglKBIVL5kFRv3RZHYlKxzDNHIDSzA0PLYmKCwjctLES3I1PNYmYSwDMhMUSy3xPNglKBI1L5kFR1gjPHY2ZS8DZDMDS1gDdKkicSEVcQYUVxgCZOciXTUURAg1XqkjLh8FNrEFNHIESn4hTikWUFE0ZYYEVvbmQigCRRwDZtfmXwsFagoENwD1bvjFR2gjPHk1YVgEciYUVp0TUZQWSVkETIcUV4UkQiwDNVgkZUYTV3fjPLg1LC8TdyYkVzEDZisVRxH1a3vVX3fDZLg1LC8TdQcEV5UkQHESUrIVdqESXzASZHACRn8zMtbEV3UjUgkWPBI1P3X0XzE0UOgFRogTN1MjX14BZgcFLVkENHIzXtUkUgsFM3ElcEECVuE0UjglKnM1Y2Y0XqASZHcmKCwDZ2f1S23xULY1LVg0bUY0SnA0QZsFLVkEcLcjV0MlLWkWUFMldqwVXs0TaHYFVWgkbUcUV3fjPLg1Mn8zM2HjXmkzUXMWSs8zM2fmX5UjQisFMC8TcLIiVuQCaOcyM3EUUqo1S2biPTgWUwH1ZQ01St3BOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
+										}
+,
+										"fileref" : 										{
+											"name" : "Blue Cat's Phaser 3 (Stereo)",
+											"filename" : "Blue Cat's Phaser 3 (Stereo)_20230823_1.maxsnap",
+											"filepath" : "~/Documents/Max Projects/Calabax-Wow/Calabax-Wow project folder/data",
+											"filepos" : -1,
+											"snapshotfileid" : "198f89588fa155efa07e36c44727ae9a"
+										}
+
+									}
+ ]
+							}
+
 						}
 
 					}
 ,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"id" : "obj-10",
+					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 9,
+					"offset" : [ 0.0, 0.0 ],
+					"outlettype" : [ "multichannelsignal", "multichannelsignal", "", "", "", "", "", "", "" ],
+					"patching_rect" : [ 16.0, 576.0, 296.0, 22.0 ],
 					"saved_object_attributes" : 					{
+						"bypass" : 1,
 						"parameter_enable" : 1,
 						"parameter_mappable" : 0
 					}
 ,
-					"snapshot" : 					{
-						"filetype" : "C74Snapshot",
-						"version" : 2,
-						"minorversion" : 0,
-						"name" : "snapshotlist",
-						"origin" : "vst~",
-						"type" : "list",
-						"subtype" : "Undefined",
-						"embed" : 1,
-						"snapshot" : 						{
-							"pluginname" : "BC Phaser 3 VST3(Mono).vst3",
-							"plugindisplayname" : "Blue Cat's Phaser 3 (Mono)",
-							"pluginsavedname" : "",
-							"pluginsaveduniqueid" : 0,
-							"version" : 1,
-							"isbank" : 0,
-							"isbase64" : 1,
-							"blob" : "1096.VMjLg7CA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9biM23hMK4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOgFQCwDZtHjX1oWZHYGRBgjcEM0SnoGZLQmZS4DMpMkSzPUZLkGQo0DdlMTS2I1TNEiZogjYtzFS3fjTLYmKogjYtHCS3fjTKAiKogjYtbTS3fjTKAiKogjYtbUS3fjPMglKBIVL5kFRv3RZHYlKxzDNHIDSzA0PLYmKCwjctLES3I1PNYmYSwDMhMUSy3xPNglKBI1L5kFR1gjPHY2ZS8DZtjFR0MyPOMGNFk0Z2EyR4XWdQU0ZDgTLUwlX4sVLgQGLogzcHIDRvzzUYQTUrk0YUcTX5ASZHcGRBgTdyYkVz8FLgUGLV8DZDkFRlwjQZcFMwj0ZQECUuQSLXsVPqI1ZMcUV5cmdgcVTVkkZvjFR1gDZOcCSxn0azXDRwTEahk2ZwDFcvjFR3gDZOcCSGM1YQcUVlg0UYgWSWoUczX0SnQUZHkicCI1YIcEVy0zQHYWS5EFLzXzX3fDZLg1LC8jcAMDRzUjUgsFLogjdmYUVyUEaKUWPWgUZqYzXzjjPHESQFEFLUY0SnQzPLYGR3sTN1MjX24BZgcFLVkENHIzXtUkUgsFM3Ila3DyXk0zUYoWTWoEciEiXn4BZic1cVM1ZvjFR1gDdKkic4sjcEwlXmASLhkic4sTdQcEV5UEaOcyM3IVbqwVX4XWdKcTUUIUN1k2RPkzUYkWUFMVNt3BOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
-						}
-,
-						"snapshotlist" : 						{
-							"current_snapshot" : 0,
-							"entries" : [ 								{
-									"filetype" : "C74Snapshot",
-									"version" : 2,
-									"minorversion" : 0,
-									"name" : "Blue Cat's Phaser 3 (Mono)",
-									"origin" : "BC Phaser 3 VST3(Mono).vst3",
-									"type" : "VST3",
-									"subtype" : "MidiEffect",
-									"embed" : 0,
-									"snapshot" : 									{
-										"pluginname" : "BC Phaser 3 VST3(Mono).vst3",
-										"plugindisplayname" : "Blue Cat's Phaser 3 (Mono)",
-										"pluginsavedname" : "",
-										"pluginsaveduniqueid" : 0,
-										"version" : 1,
-										"isbank" : 0,
-										"isbase64" : 1,
-										"blob" : "1096.VMjLg7CA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9biM23hMK4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOgFQCwDZtHjX1oWZHYGRBgjcEM0SnoGZLQmZS4DMpMkSzPUZLkGQo0DdlMTS2I1TNEiZogjYtzFS3fjTLYmKogjYtHCS3fjTKAiKogjYtbTS3fjTKAiKogjYtbUS3fjPMglKBIVL5kFRv3RZHYlKxzDNHIDSzA0PLYmKCwjctLES3I1PNYmYSwDMhMUSy3xPNglKBI1L5kFR1gjPHY2ZS8DZtjFR0MyPOMGNFk0Z2EyR4XWdQU0ZDgTLUwlX4sVLgQGLogzcHIDRvzzUYQTUrk0YUcTX5ASZHcGRBgTdyYkVz8FLgUGLV8DZDkFRlwjQZcFMwj0ZQECUuQSLXsVPqI1ZMcUV5cmdgcVTVkkZvjFR1gDZOcCSxn0azXDRwTEahk2ZwDFcvjFR3gDZOcCSGM1YQcUVlg0UYgWSWoUczX0SnQUZHkicCI1YIcEVy0zQHYWS5EFLzXzX3fDZLg1LC8jcAMDRzUjUgsFLogjdmYUVyUEaKUWPWgUZqYzXzjjPHESQFEFLUY0SnQzPLYGR3sTN1MjX24BZgcFLVkENHIzXtUkUgsFM3Ila3DyXk0zUYoWTWoEciEiXn4BZic1cVM1ZvjFR1gDdKkic4sjcEwlXmASLhkic4sTdQcEV5UEaOcyM3IVbqwVX4XWdKcTUUIUN1k2RPkzUYkWUFMVNt3BOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
-									}
-,
-									"fileref" : 									{
-										"name" : "Blue Cat's Phaser 3 (Mono)",
-										"filename" : "Blue Cat's Phaser 3 (Mono).maxsnap",
-										"filepath" : "~/Documents/Max 8/Snapshots",
-										"filepos" : -1,
-										"snapshotfileid" : "2d553534461c6f47f90cc5557cb9cdd2"
-									}
-
-								}
- ]
-						}
-
-					}
-,
-					"text" : "vst~ \"BC Phaser 3 VST3(Mono).vst3\"",
+					"text" : "mc.vst~ \"BC Phaser 3 VST3(Stereo).vst3\" @bypass 1",
 					"varname" : "vst~[15]",
 					"viewvisibility" : 0
 				}
@@ -459,97 +576,94 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 16.0, 288.0, 29.5, 22.0 ],
+					"patching_rect" : [ 16.0, 352.0, 29.5, 22.0 ],
 					"text" : "+ 0."
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"autosave" : 1,
 					"bgmode" : 0,
 					"border" : 0,
 					"clickthrough" : 0,
-					"id" : "obj-12",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 8,
-					"offset" : [ 0.0, 0.0 ],
-					"outlettype" : [ "signal", "signal", "", "list", "int", "", "", "" ],
-					"patching_rect" : [ 16.0, 448.0, 208.0, 22.0 ],
-					"save" : [ "#N", "vst~", "loaduniqueid", 0, "BC Chorus 4 VST3(Mono).vst3", ";" ],
-					"saved_attribute_attributes" : 					{
-						"valueof" : 						{
-							"parameter_invisible" : 1,
-							"parameter_longname" : "vst~[11]",
-							"parameter_shortname" : "vst~[1]",
-							"parameter_type" : 3
+					"data" : 					{
+						"autosave" : 1,
+						"snapshot" : 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "snapshotlist",
+							"origin" : "vst~",
+							"type" : "list",
+							"subtype" : "Undefined",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "BC Chorus 4 VST3(Stereo).vst3",
+								"plugindisplayname" : "Blue Cat's Chorus 4 (Stereo)",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 0,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"blob" : "1112.VMjLg7DA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9byM43xQL4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOglZogjYtbDS3fjPLglKBI1c5kFRygTZKQiZS4DMpMkSvfTdLcGVowzLPMESxnVZMQCRBgjcIM0SnQzPLYGRBgjcMM0SnQzPLYGRBgjcQM0SnQzPLQmKCwjctLDS1gzTNMiKowTdHkFS4YVdMICRBgjcUM0SnQ0PLglKBIVL5kFR1MiPMYmKCwjctLDS2gTdMMiKC4zcpkWSvX1PLMCRBgjciM0SnQzPLYGRBgjcmM0Sn4RZHU2LC8zb3XTVqcWLKkic4EUUqQDRwTEahk2ZwDFcvjFR2gjPHASSWkEQUwVVmU0QgoGLogzcHIDR4MmUZQ2avDVcvX0SnQTZHYFSFo0YzDSVqEULT8FMwf0ZAslXq0zUYo2c5E1YQYUVpASZHYGRn8zMLIiVuQiQHESUrIVdqESXzASZHgGRn8zMLczXmE0UYYFVWkEdMckV0QiUOgFUogTN1MjXmkzUXMWSGgjcMoWXvPiQigCRnwDZyLzS1EzPHQWQVE1ZvjFR5clUYMWUrsTcAcEVoslQiQSRBgTLEYTXvTkUOgFQCwjcHg2R4X2PhcmKnE1YvXUV3fjPi4VUVE1ZzfmXtgSLiUVSWkkdQckVzMVLhglKnM1Y2Y0XqASZHYGR3sTN1k2R1UDahcFLwHVN1k2R4E0UXoWUr8zM2fmXwsFagkic4szQUUkT4XWdKAURWkUdUYzX43hK77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9.."
+							}
+,
+							"snapshotlist" : 							{
+								"current_snapshot" : 0,
+								"entries" : [ 									{
+										"filetype" : "C74Snapshot",
+										"version" : 2,
+										"minorversion" : 0,
+										"name" : "Blue Cat's Chorus 4 (Stereo)",
+										"origin" : "BC Chorus 4 VST3(Stereo).vst3",
+										"type" : "VST3",
+										"subtype" : "MidiEffect",
+										"embed" : 0,
+										"snapshot" : 										{
+											"pluginname" : "BC Chorus 4 VST3(Stereo).vst3",
+											"plugindisplayname" : "Blue Cat's Chorus 4 (Stereo)",
+											"pluginsavedname" : "",
+											"pluginsaveduniqueid" : 0,
+											"version" : 1,
+											"isbank" : 0,
+											"isbase64" : 1,
+											"blob" : "1112.VMjLg7DA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9byM43xQL4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOglZogjYtbDS3fjPLglKBI1c5kFRygTZKQiZS4DMpMkSvfTdLcGVowzLPMESxnVZMQCRBgjcIM0SnQzPLYGRBgjcMM0SnQzPLYGRBgjcQM0SnQzPLQmKCwjctLDS1gzTNMiKowTdHkFS4YVdMICRBgjcUM0SnQ0PLglKBIVL5kFR1MiPMYmKCwjctLDS2gTdMMiKC4zcpkWSvX1PLMCRBgjciM0SnQzPLYGRBgjcmM0Sn4RZHU2LC8zb3XTVqcWLKkic4EUUqQDRwTEahk2ZwDFcvjFR2gjPHASSWkEQUwVVmU0QgoGLogzcHIDR4MmUZQ2avDVcvX0SnQTZHYFSFo0YzDSVqEULT8FMwf0ZAslXq0zUYo2c5E1YQYUVpASZHYGRn8zMLIiVuQiQHESUrIVdqESXzASZHgGRn8zMLczXmE0UYYFVWkEdMckV0QiUOgFUogTN1MjXmkzUXMWSGgjcMoWXvPiQigCRnwDZyLzS1EzPHQWQVE1ZvjFR5clUYMWUrsTcAcEVoslQiQSRBgTLEYTXvTkUOgFQCwjcHg2R4X2PhcmKnE1YvXUV3fjPi4VUVE1ZzfmXtgSLiUVSWkkdQckVzMVLhglKnM1Y2Y0XqASZHYGR3sTN1k2R1UDahcFLwHVN1k2R4E0UXoWUr8zM2fmXwsFagkic4szQUUkT4XWdKAURWkUdUYzX43hK77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9.."
+										}
+,
+										"fileref" : 										{
+											"name" : "Blue Cat's Chorus 4 (Stereo)",
+											"filename" : "Blue Cat's Chorus 4 (Stereo).maxsnap",
+											"filepath" : "~/Documents/Max 8/Snapshots",
+											"filepos" : -1,
+											"snapshotfileid" : "e6025c8524d26030ebf64202b29e2cf0"
+										}
+
+									}
+ ]
+							}
+
 						}
 
 					}
 ,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"id" : "obj-12",
+					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 9,
+					"offset" : [ 0.0, 0.0 ],
+					"outlettype" : [ "multichannelsignal", "multichannelsignal", "", "", "", "", "", "", "" ],
+					"patching_rect" : [ 16.0, 544.0, 296.0, 22.0 ],
 					"saved_object_attributes" : 					{
+						"bypass" : 1,
 						"parameter_enable" : 1,
 						"parameter_mappable" : 0
 					}
 ,
-					"snapshot" : 					{
-						"filetype" : "C74Snapshot",
-						"version" : 2,
-						"minorversion" : 0,
-						"name" : "snapshotlist",
-						"origin" : "vst~",
-						"type" : "list",
-						"subtype" : "Undefined",
-						"embed" : 1,
-						"snapshot" : 						{
-							"pluginname" : "BC Chorus 4 VST3(Mono).vst3",
-							"plugindisplayname" : "Blue Cat's Chorus 4 (Mono)",
-							"pluginsavedname" : "",
-							"pluginsaveduniqueid" : 0,
-							"version" : 1,
-							"isbank" : 0,
-							"isbase64" : 1,
-							"blob" : "1109.VMjLgvDA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9byM23RQL4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOglZogjYtbDS3fjPLglKBI1c5kFRygTZKQiZS4DMpMkSvfTdLcGVowzLPMESxnVZMQCRBgjcIM0SnQzPLYGRBgjcMM0SnQzPLYGRBgjcQM0SnQzPLQmKCwjctLDS1gzTNMiKowTdHkFS4YVdMICRBgjcUM0SnQ0PLglKBIVL5kFR1MiPMYmKCwjctLDS2gTdMMiKC4zcpkWSvX1PLMCRBgjciM0Sn4RZHYlKG4DNHIDSncCZOcidwDlZUYTX0MyPOcTUUIkYXcUV30zUZUGMV8DZDkFRlQkLhsVTTkEaEY0XxE0UOgFQogjYLIiVuQCaVUGNVEFNHIESn4BdX4VQrEVaUYTVSsFagkVUFQEdUEiXqE0QSUWQFk0ZQY0Sn4RZHkic4IVbqwVXlg0UYgWSWoUczX0SngTZHkic4IldEYzXqEDZisVRxH1a3vVX3fjTMg1LC8jcEwlXmASLhYlKx.UcU0VX5ASZHgGRn8zMtbDSlMiUXMWUV8DZPcjVqAiUYQ2MFI1YMYkV5sVaHYFVWgkbUcUV3fjTLYmKogTcyLzS1UzPHQWQVE1ZvjFR5clUYMWUrsTdmESXxfCLhsVTGM1azDSV4kjPHESQFEFLUY0Sn4RZHU2LC8TctbEV3UjUgkGMC8TcLczXmE0UYkic4sTdyYkVzQyPOUmXTUURzLzS04xZhsVSWkkdzLjK77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9.."
-						}
-,
-						"snapshotlist" : 						{
-							"current_snapshot" : 0,
-							"entries" : [ 								{
-									"filetype" : "C74Snapshot",
-									"version" : 2,
-									"minorversion" : 0,
-									"name" : "Blue Cat's Chorus 4 (Mono)",
-									"origin" : "BC Chorus 4 VST3(Mono).vst3",
-									"type" : "VST3",
-									"subtype" : "MidiEffect",
-									"embed" : 0,
-									"snapshot" : 									{
-										"pluginname" : "BC Chorus 4 VST3(Mono).vst3",
-										"plugindisplayname" : "Blue Cat's Chorus 4 (Mono)",
-										"pluginsavedname" : "",
-										"pluginsaveduniqueid" : 0,
-										"version" : 1,
-										"isbank" : 0,
-										"isbase64" : 1,
-										"blob" : "1109.VMjLgvDA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9byM23RQL4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOciKqI1ZMcUV5EDZisVRxH1a3vVX3fjPMglKBIFd3DSVNUjUgsFLogDQUwVVmU0QgoWRBgTZU0lX3UEagoWPqI1ZMcUV5kEUZIWUFQ0YQcjV3fjPQsVVVgEL2YzXz4RahsVSWkkdIIDRoUUahgWUrEldAslXq0zUYoWVTokbUwFU0giQigCRBwDZtH0TIEEURkDMFIFLQcTTqkkUXAycFMFNHIESn4hTSkTTTI0SUczX1U0QiQTUrk0YUcTX5ASZHcGRBgTSqQTTIEzZhU2XrI1YvDCTtUDag0VUw.kaEwVXzUkQggCRRszcHg1S2nGURQzZpM0ZmczXPkzUYkWUFM1TUYzX5sFag0VP3gkaEwVXzUkQggCRBwDZtfVXv.CaXsVRW8DZtjFRlomUZo1ZVEEcEwFVxUkQYgCRBwDZtHzXzDzUYgCR3A0PIg2R4X2TSkTTTIETIcUVwDzZhsVSWkkdMUUV5E0UZQ2XFgTZmYEVzQiUYIGLogjcHIDRzU0UggVUrIFNHIDSn4hTg8VTVoUQzXEVncmUYoFLogjcHIDR5s1QhsFLogzPMoFR0MyPO8FMFIFLQcDUmkzUXMWSGgTZ3X0XzE0UOglZogjYtbDS3fjPLglKBI1c5kFRygTZKQiZS4DMpMkSvfTdLcGVowzLPMESxnVZMQCRBgjcIM0SnQzPLYGRBgjcMM0SnQzPLYGRBgjcQM0SnQzPLQmKCwjctLDS1gzTNMiKowTdHkFS4YVdMICRBgjcUM0SnQ0PLglKBIVL5kFR1MiPMYmKCwjctLDS2gTdMMiKC4zcpkWSvX1PLMCRBgjciM0Sn4RZHYlKG4DNHIDSncCZOcidwDlZUYTX0MyPOcTUUIkYXcUV30zUZUGMV8DZDkFRlQkLhsVTTkEaEY0XxE0UOgFQogjYLIiVuQCaVUGNVEFNHIESn4BdX4VQrEVaUYTVSsFagkVUFQEdUEiXqE0QSUWQFk0ZQY0Sn4RZHkic4IVbqwVXlg0UYgWSWoUczX0SngTZHkic4IldEYzXqEDZisVRxH1a3vVX3fjTMg1LC8jcEwlXmASLhYlKx.UcU0VX5ASZHgGRn8zMtbDSlMiUXMWUV8DZPcjVqAiUYQ2MFI1YMYkV5sVaHYFVWgkbUcUV3fjTLYmKogTcyLzS1UzPHQWQVE1ZvjFR5clUYMWUrsTdmESXxfCLhsVTGM1azDSV4kjPHESQFEFLUY0Sn4RZHU2LC8TctbEV3UjUgkGMC8TcLczXmE0UYkic4sTdyYkVzQyPOUmXTUURzLzS04xZhsVSWkkdzLjK77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9.."
-									}
-,
-									"fileref" : 									{
-										"name" : "Blue Cat's Chorus 4 (Mono)",
-										"filename" : "Blue Cat's Chorus 4 (Mono).maxsnap",
-										"filepath" : "~/Documents/Max 8/Snapshots",
-										"filepos" : -1,
-										"snapshotfileid" : "d019bb67824e803635305bb789d1fcae"
-									}
-
-								}
- ]
-						}
-
-					}
-,
-					"text" : "vst~ \"BC Chorus 4 VST3(Mono).vst3\"",
+					"text" : "mc.vst~ \"BC Chorus 4 VST3(Stereo).vst3\" @bypass 1",
 					"varname" : "vst~[16]",
 					"viewvisibility" : 0
 				}
@@ -562,7 +676,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 171.75, 288.0, 29.5, 22.0 ],
+					"patching_rect" : [ 171.75, 352.0, 29.5, 22.0 ],
 					"text" : "+ 0."
 				}
 
@@ -574,7 +688,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 96.0, 288.0, 29.5, 22.0 ],
+					"patching_rect" : [ 96.0, 352.0, 29.5, 22.0 ],
 					"text" : "+ 0."
 				}
 
@@ -586,7 +700,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 171.75, 320.0, 32.0, 22.0 ],
+					"patching_rect" : [ 171.75, 384.0, 32.0, 22.0 ],
 					"text" : "mtof"
 				}
 
@@ -598,7 +712,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 96.0, 320.0, 32.0, 22.0 ],
+					"patching_rect" : [ 96.0, 384.0, 32.0, 22.0 ],
 					"text" : "mtof"
 				}
 
@@ -610,7 +724,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 171.75, 368.0, 59.0, 22.0 ],
+					"patching_rect" : [ 171.75, 432.0, 59.0, 22.0 ],
 					"text" : "tri~ 0. 0.5",
 					"varname" : "vst~[17]"
 				}
@@ -623,7 +737,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 96.0, 368.0, 59.0, 22.0 ],
+					"patching_rect" : [ 96.0, 432.0, 59.0, 22.0 ],
 					"text" : "tri~ 0. 0.5",
 					"varname" : "vst~[18]"
 				}
@@ -636,7 +750,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 16.0, 320.0, 32.0, 22.0 ],
+					"patching_rect" : [ 16.0, 384.0, 32.0, 22.0 ],
 					"text" : "mtof"
 				}
 
@@ -648,8 +762,8 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 16.0, 96.0, 179.0, 22.0 ],
-					"text" : "scale 0. 1. 67. 67.25"
+					"patching_rect" : [ 16.0, 160.0, 179.0, 22.0 ],
+					"text" : "scale 0. 1. 0. 0."
 				}
 
 			}
@@ -672,7 +786,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 16.0, 368.0, 59.0, 22.0 ],
+					"patching_rect" : [ 16.0, 432.0, 59.0, 22.0 ],
 					"text" : "tri~ 0. 0.5",
 					"varname" : "vst~[19]"
 				}
@@ -685,8 +799,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 16.0, 416.0, 40.0, 22.0 ],
-					"text" : "*~ 0.1"
+					"patching_rect" : [ 16.0, 480.0, 40.0, 22.0 ],
+					"text" : "*~ 0.5"
 				}
 
 			}
@@ -714,6 +828,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-10", 1 ],
+					"source" : [ "obj-12", 7 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-10", 0 ],
 					"source" : [ "obj-12", 0 ]
 				}
@@ -721,8 +842,8 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-5", 0 ],
-					"source" : [ "obj-16", 1 ]
+					"destination" : [ "obj-3", 0 ],
+					"source" : [ "obj-16", 0 ]
 				}
 
 			}
@@ -770,8 +891,59 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-1", 0 ],
+					"order" : 0,
+					"source" : [ "obj-22", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-51", 3 ],
+					"order" : 1,
+					"source" : [ "obj-22", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-24", 0 ],
+					"source" : [ "obj-23", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-38", 0 ],
+					"source" : [ "obj-24", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-12", 0 ],
+					"source" : [ "obj-26", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-32", 0 ],
 					"source" : [ "obj-28", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 0 ],
+					"source" : [ "obj-3", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-13", 0 ],
+					"source" : [ "obj-30", 0 ]
 				}
 
 			}
@@ -791,8 +963,15 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-38", 0 ],
+					"destination" : [ "obj-15", 0 ],
 					"source" : [ "obj-34", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-14", 0 ],
+					"source" : [ "obj-37", 0 ]
 				}
 
 			}
@@ -826,16 +1005,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-1", 0 ],
-					"order" : 0,
-					"source" : [ "obj-4", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-51", 3 ],
-					"order" : 1,
+					"destination" : [ "obj-22", 0 ],
 					"source" : [ "obj-4", 0 ]
 				}
 
@@ -864,6 +1034,14 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 0 ],
+					"order" : 3,
+					"source" : [ "obj-51", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-21", 0 ],
 					"order" : 2,
 					"source" : [ "obj-51", 0 ]
 				}
@@ -872,7 +1050,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-71", 1 ],
-					"midpoints" : [ 25.5, 139.5, 134.5, 139.5 ],
+					"midpoints" : [ 25.5, 203.5, 134.5, 203.5 ],
 					"order" : 1,
 					"source" : [ "obj-51", 0 ]
 				}
@@ -881,7 +1059,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-72", 1 ],
-					"midpoints" : [ 25.5, 127.5, 214.25, 127.5 ],
+					"midpoints" : [ 25.5, 191.5, 214.25, 191.5 ],
 					"order" : 0,
 					"source" : [ "obj-51", 0 ]
 				}
@@ -903,7 +1081,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-12", 0 ],
+					"destination" : [ "obj-26", 0 ],
 					"source" : [ "obj-55", 0 ]
 				}
 
@@ -924,8 +1102,22 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-35", 0 ],
+					"source" : [ "obj-6", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-36", 0 ],
+					"source" : [ "obj-6", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-20", 1 ],
-					"midpoints" : [ 324.0, 257.5, 116.0, 257.5 ],
+					"midpoints" : [ 324.0, 321.5, 116.0, 321.5 ],
 					"source" : [ "obj-69", 1 ]
 				}
 
@@ -939,7 +1131,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-15", 0 ],
+					"destination" : [ "obj-34", 0 ],
 					"source" : [ "obj-7", 0 ]
 				}
 
@@ -947,7 +1139,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-18", 1 ],
-					"midpoints" : [ 366.0, 272.5, 191.75, 272.5 ],
+					"midpoints" : [ 366.0, 336.5, 191.75, 336.5 ],
 					"source" : [ "obj-70", 1 ]
 				}
 
@@ -989,14 +1181,14 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-14", 0 ],
+					"destination" : [ "obj-37", 0 ],
 					"source" : [ "obj-8", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-13", 0 ],
+					"destination" : [ "obj-30", 0 ],
 					"source" : [ "obj-9", 0 ]
 				}
 

@@ -2,7 +2,7 @@
 	"name" : "Calabax-Wow",
 	"version" : 1,
 	"creationdate" : 3775521019,
-	"modificationdate" : 3775522577,
+	"modificationdate" : 3775745148,
 	"viewrect" : [ 458.0, 134.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,17 +16,22 @@
 				"toplevel" : 1
 			}
 ,
-			"*CyAudio.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"CyTone.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
+			"*CyAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"at test.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"BoidUnit.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -46,14 +51,34 @@
 				"local" : 1
 			}
 ,
-			"BoidUnit.maxpat" : 			{
+			"BoidPos.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"BoidPos.maxpat" : 			{
+			"calabaxwow-josh.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
+			}
+,
+			"Calabax-Audio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
+			}
+,
+			"MajMinRect.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
 			}
 
 		}
@@ -78,18 +103,67 @@
 				"kind" : "imagefile",
 				"local" : 1
 			}
+,
+			"spod.jpg" : 			{
+				"kind" : "imagefile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
+			}
+
+		}
+,
+		"code" : 		{
 
 		}
 ,
 		"data" : 		{
+			"Blue Cat's Phaser 3 (Stereo)_20230823_1.maxsnap" : 			{
+				"kind" : "maxsnapshot",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
+			}
+,
+			"Blue Cat's Phaser 3 (Stereo)_20230823.maxsnap" : 			{
+				"kind" : "maxsnapshot",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
+			}
+,
+			"Blue Cat's Phaser 3 (Stereo).maxsnap" : 			{
+				"kind" : "maxsnapshot",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
+			}
+,
+			"vertices.txt" : 			{
+				"kind" : "textfile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
+			}
 
 		}
 ,
 		"externals" : 		{
-
-		}
-,
-		"other" : 		{
 
 		}
 

@@ -2,8 +2,8 @@
 	"name" : "Calabax-Wow",
 	"version" : 1,
 	"creationdate" : 3775521019,
-	"modificationdate" : 3775522577,
-	"viewrect" : [ 458.0, 134.0, 300.0, 500.0 ],
+	"modificationdate" : 3775752351,
+	"viewrect" : [ 194.0, 144.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -16,17 +16,22 @@
 				"toplevel" : 1
 			}
 ,
-			"*CyAudio.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"CyTone.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
+			"*CyAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"at test.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"BoidUnit.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -46,12 +51,27 @@
 				"local" : 1
 			}
 ,
-			"BoidUnit.maxpat" : 			{
+			"BoidPos.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"BoidPos.maxpat" : 			{
+			"calabaxwow-josh.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"Calabax-Audio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"MajMinRect.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"vj.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -59,6 +79,16 @@
 		}
 ,
 		"media" : 		{
+			"cy.obj" : 			{
+				"kind" : "model",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/eric singer/fixing",
+					"projectrelativepath" : "../../../fixing"
+				}
+
+			}
+,
 			"Spodumene_var crop.jpg" : 			{
 				"kind" : "imagefile",
 				"local" : 1
@@ -69,19 +99,42 @@
 				"local" : 1
 			}
 ,
-			"cy.obj" : 			{
-				"kind" : "model",
+			"cy.png" : 			{
+				"kind" : "imagefile",
 				"local" : 1
 			}
 ,
-			"cy.png" : 			{
+			"spod.jpg" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
 
 		}
 ,
+		"code" : 		{
+
+		}
+,
 		"data" : 		{
+			"Blue Cat's Phaser 3 (Stereo)_20230823_1.maxsnap" : 			{
+				"kind" : "maxsnapshot",
+				"local" : 1
+			}
+,
+			"Blue Cat's Phaser 3 (Stereo)_20230823.maxsnap" : 			{
+				"kind" : "maxsnapshot",
+				"local" : 1
+			}
+,
+			"Blue Cat's Phaser 3 (Stereo).maxsnap" : 			{
+				"kind" : "maxsnapshot",
+				"local" : 1
+			}
+,
+			"vertices.txt" : 			{
+				"kind" : "textfile",
+				"local" : 1
+			}
 
 		}
 ,

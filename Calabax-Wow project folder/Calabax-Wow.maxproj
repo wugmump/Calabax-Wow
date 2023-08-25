@@ -2,14 +2,19 @@
 	"name" : "Calabax-Wow",
 	"version" : 1,
 	"creationdate" : 3775521019,
-	"modificationdate" : 3775752351,
-	"viewrect" : [ 194.0, 144.0, 300.0, 500.0 ],
+	"modificationdate" : 3775813284,
+	"viewrect" : [ 123.0, 134.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
+			"calabax-billboard.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"Calabax-Wow.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 51.0, 91.0, 1454.0, 900.0 ],
+		"rect" : [ 51.0, 91.0, 1356.0, 900.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -2253,17 +2253,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-6",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 448.0, 144.0, 142.0, 20.0 ],
-					"text" : "ROTATE IS 0 TO 1 NOW"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-9",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -3358,8 +3347,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_gl_texture", "" ],
-					"patching_rect" : [ 865.0, 256.0, 293.0, 22.0 ],
-					"text" : "jit.gl.texture @adapt 1 @name mineral @file spod.jpg"
+					"patching_rect" : [ 865.0, 256.0, 294.0, 22.0 ],
+					"text" : "jit.gl.texture @adapt 1 @name mineral @file rust1.jpg"
 				}
 
 			}
@@ -3393,7 +3382,6 @@
 					"dstrect" : [ 0, 0, 360, 240 ],
 					"id" : "obj-1",
 					"maxclass" : "jit.pwindow",
-					"name" : "u097006084",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
@@ -3753,7 +3741,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 865.0, 176.0, 201.0, 22.0 ],
+					"patching_rect" : [ 865.0, 176.0, 242.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"client_rect" : [ 1057, 79, 1440, 441 ],
 						"parameter_enable" : 0,
@@ -3761,8 +3749,8 @@
 						"storage_rect" : [ 583, 69, 1034, 197 ]
 					}
 ,
-					"text" : "pattrstorage Calabax @savemode 2",
-					"varname" : "Calabax"
+					"text" : "pattrstorage calabax-params @savemode 2",
+					"varname" : "calabax-params"
 				}
 
 			}
@@ -7351,9 +7339,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "bang", "" ],
-					"patching_rect" : [ 865.0, 384.0, 507.0, 22.0 ],
+					"patching_rect" : [ 865.0, 384.0, 462.0, 22.0 ],
 					"style" : "newobjYellow-1",
-					"text" : "jit.world calabax @erase_color 0 0 0 1. @output_texture 1 @enable 1 @fsaa 1 @fullscreen 1"
+					"text" : "jit.world calabax-world @erase_color 0 0 0 1. @output_texture 1 @enable 1 @fsaa 1"
 				}
 
 			}
@@ -7694,7 +7682,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-45", 0 ],
-					"midpoints" : [ 1118.5, 420.067011117935181, 1257.5, 420.067011117935181 ],
+					"midpoints" : [ 1096.0, 420.067011117935181, 1257.5, 420.067011117935181 ],
 					"source" : [ "obj-35", 1 ]
 				}
 
@@ -8160,6 +8148,22 @@
 				}
 
 			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"order" : 0,
+					"source" : [ "obj-99", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-98", 0 ],
+					"order" : 1,
+					"source" : [ "obj-99", 0 ]
+				}
+
+			}
  ],
 		"parameters" : 		{
 			"obj-59::obj-12" : [ "vst~[1]", "vst~[1]", 0 ],
@@ -8213,13 +8217,15 @@
 			}
 , 			{
 				"name" : "fit_jweb_to_bounds.js",
-				"bootpath" : "C74:/packages/Node for Max/patchers/debug-monitor",
+				"bootpath" : "~/Documents/Max Projects/Calabax-Wow/Calabax-Wow project folder/code",
+				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "n4m.monitor.maxpat",
-				"bootpath" : "C74:/packages/Node for Max/patchers/debug-monitor",
+				"bootpath" : "~/Documents/Max Projects/Calabax-Wow/Calabax-Wow project folder/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -8239,7 +8245,8 @@
 			}
 , 			{
 				"name" : "resize_n4m_monitor_patcher.js",
-				"bootpath" : "C74:/packages/Node for Max/patchers/debug-monitor",
+				"bootpath" : "~/Documents/Max Projects/Calabax-Wow/Calabax-Wow project folder/code",
+				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}

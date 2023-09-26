@@ -2,7 +2,7 @@
 	"name" : "Calabax-Wow",
 	"version" : 1,
 	"creationdate" : 3775521019,
-	"modificationdate" : 3775752351,
+	"modificationdate" : 3776711247,
 	"viewrect" : [ 194.0, 144.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,6 +10,11 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
+			"Calabax-Wow viewer.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"Calabax-Wow.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
@@ -81,12 +86,7 @@
 		"media" : 		{
 			"cy.obj" : 			{
 				"kind" : "model",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/eric singer/fixing",
-					"projectrelativepath" : "../../../fixing"
-				}
-
+				"local" : 1
 			}
 ,
 			"Spodumene_var crop.jpg" : 			{

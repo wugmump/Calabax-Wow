@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Preset version="3" progName="Vibrato" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="10" p0="0" p1="-2.9999995231628418" p2="30.000001192092896" p3="100" p4="89.999997615814209" p5="8.5000002384185791" p6="10.999999940395355" p7="5.5000003210014068" p8="0" p9="0" />
+    <inputStrings />
+    <inputCurves />
+    <inputSurfaces />
+    <inputCustomProperties />
+    <model />
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="2">
+                <params pCount="2">
+                    <p0 name="theme.opacity" value="100" />
+                    <p1 name="theme.show_settings" value="0" />
+                </params>
+                <curves cCount="0" />
+                <surfaces sCount="0" />
+                <strings sCount="0" />
+                <collectionCounts cCount="0" />
+            </state>
+        </skin>
+    </GUI>
+</Preset>

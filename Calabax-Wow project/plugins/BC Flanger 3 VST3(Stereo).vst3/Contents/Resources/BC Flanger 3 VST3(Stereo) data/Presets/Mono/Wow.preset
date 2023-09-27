@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Preset version="3" progName="Wow" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="10" p0="0" p1="-2.9999995231628418" p2="0" p3="100" p4="0" p5="10" p6="80.000001192092896" p7="1.9999998174914051" p8="0" p9="0" />
+    <inputStrings />
+    <inputCurves />
+    <inputSurfaces />
+    <inputCustomProperties />
+    <model />
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="2">
+                <params pCount="2">
+                    <p0 name="theme.opacity" value="100" />
+                    <p1 name="theme.show_settings" value="0" />
+                </params>
+                <curves cCount="0" />
+                <surfaces sCount="0" />
+                <strings sCount="0" />
+                <collectionCounts cCount="0" />
+            </state>
+        </skin>
+    </GUI>
+</Preset>

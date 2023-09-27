@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Preset version="3" progName="Deep Flange" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="10" p0="0" p1="-2.9999995231628418" p2="100" p3="70.000004768371582" p4="75" p5="5" p6="100" p7="0.60000003160669013" p8="0" p9="100" />
+    <inputStrings />
+    <inputCurves />
+    <inputSurfaces />
+    <inputCustomProperties />
+    <model />
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="2">
+                <params pCount="2">
+                    <p0 name="theme.opacity" value="100" />
+                    <p1 name="theme.show_settings" value="0" />
+                </params>
+                <curves cCount="0" />
+                <surfaces sCount="0" />
+                <strings sCount="0" />
+                <collectionCounts cCount="0" />
+            </state>
+        </skin>
+    </GUI>
+</Preset>

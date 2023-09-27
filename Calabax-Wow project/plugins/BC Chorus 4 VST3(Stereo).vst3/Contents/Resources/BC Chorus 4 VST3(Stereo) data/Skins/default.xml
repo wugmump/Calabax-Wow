@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SKIN author="Blue Cat Audio" name="Default">
+  <!-- Includes -->
+  <INCLUDE_ONCE file="mapping.inc"/>
+  <INCLUDE_ONCE file="DarkBlue-Theme/theme.inc"/>
+  
+  <TEMPLATE id="TPL_KNOB_MODULE" param_id="#UNDEFINED#" knob_type="CUS_DARK_BLUE_KNOB" positions_count="101">
+      <DEFINE>
+        <LOCAL_KNOB base_type="$knob_type$"/>
+      </DEFINE>
+      <LAYER_STACK>
+        <THEME_BOX width="100%" height="60%" v_align="top" opacity="40%"/>
+        <COLUMN spacing="5" v_margin="5">
+          <COLUMN width="100%" spacing="2">
+            <PARAM_TEXT param_id="$param_id$" content="{name}" font_weight="bold" font_size="+1"/>
+            <PARAM_TEXT param_id="$param_id$" width="100%"/>
+          </COLUMN>
+          <COLUMN spacing="-6">
+            <LOCAL_KNOB param_id="$param_id$" positions_count="$positions_count$"/>
+            <THEME_DSP_PARAM_ROUND_SETTINGS_BUTTON param_id="$param_id$"/>
+          </COLUMN>
+        </COLUMN>
+      </LAYER_STACK>
+      <UNDEFINE>
+        <LOCAL_KNOB/>
+      </UNDEFINE>
+  </TEMPLATE>
+  
+	<!-- The Layout -->
+  <TPL_TOOLBAR title_image="chorus.svg" title_image_small="" preset_box_width="250" buttons_per_row="4" empty_buttons_count="1" spacing="5"/>
+    <THEME_DECORATIONS v_margin="10" bg_color="old-blue">
+    <ROW spacing="4">
+      <THEME_BOX layout_type="row" spacing="4">
+        <TPL_KNOB_MODULE param_id="$gain$" knob_type="CUS_DARK_BLUE_KNOB_SYM" positions_count="41"/>
+      </THEME_BOX>
+      <THEME_BOX layout_type="row" spacing="4">
+        <TPL_KNOB_MODULE param_id="$delay$" positions_count="301"/>
+        <TPL_KNOB_MODULE param_id="$depth$"/>
+        <TPL_KNOB_MODULE param_id="$rate$" positions_count="201"/>
+        <IF_STEREO>
+          <TPL_KNOB_MODULE param_id="$spread$"/>        
+        </IF_STEREO>
+      </THEME_BOX>
+      <THEME_BOX layout_type="row" spacing="4">
+        <TPL_KNOB_MODULE param_id="$dry$"/>
+        <TPL_KNOB_MODULE param_id="$wet$" positions_count="101"/>
+      </THEME_BOX>
+       <THEME_BOX layout_type="row" height="100%">
+        <COLUMN v_align="top" spacing="4">
+          <PARAM_TEXT param_id="$shape$" content="{name}" font_weight="bold" font_size="+1"/>
+          <COLUMN>
+            <IMAGE_PARAM_BUTTON param_id="$shape$" image="triangle_wave.png" cursor="system::hand"/>
+            <THEME_V_SELECT_SWITCH param_id="$shape$"/>
+            <IMAGE_PARAM_BUTTON param_id="$shape$" image="sine_wave.png" cursor="system::hand" reverse="true"/>
+            <THEME_DSP_PARAM_ROUND_SETTINGS_BUTTON param_id="$shape$"/>
+          </COLUMN>
+      </COLUMN>     
+      </THEME_BOX>
+    </ROW>
+  </THEME_DECORATIONS>  
+</SKIN>

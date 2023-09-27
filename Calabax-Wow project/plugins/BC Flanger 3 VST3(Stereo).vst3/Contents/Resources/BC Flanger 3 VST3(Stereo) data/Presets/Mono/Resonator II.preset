@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Preset version="3" progName="Resonator II" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="10" p0="0" p1="-3.9999997615814209" p2="88.999998569488525" p3="-71.000000834465027" p4="-81.000000238418579" p5="1.5625" p6="21.99999988079071" p7="0.14797540994151795" p8="1" p9="0" />
+    <inputStrings />
+    <inputCurves />
+    <inputSurfaces />
+    <inputCustomProperties />
+    <model />
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="2">
+                <params pCount="2">
+                    <p0 name="theme.opacity" value="100" />
+                    <p1 name="theme.show_settings" value="0" />
+                </params>
+                <curves cCount="0" />
+                <surfaces sCount="0" />
+                <strings sCount="0" />
+                <collectionCounts cCount="0" />
+            </state>
+        </skin>
+    </GUI>
+</Preset>

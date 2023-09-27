@@ -1,0 +1,3927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/about.inc</key>
+		<data>
+		By1xndXhFNw1B8QiZs+JHojVJMg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/about.xml</key>
+		<data>
+		qeMUyQZAHw8I1z2+yd2E9Ycd4CU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/bg.png</key>
+		<data>
+		tVItqqjFAgnut4H7P2PXowt1E7w=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/logo.svg</key>
+		<data>
+		c3KXgBnzHbsypidpFx4iAhc4uO4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/EULA.txt</key>
+		<data>
+		LCRINiGPyUlAALfFtCvLG9cBg+Q=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/README.txt</key>
+		<data>
+		20slsDGVKapu3oY6VeqN6vSxwMw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/Xercesc.txt</key>
+		<data>
+		R7Vz44JM1eAqGjrpnic1tJ4CVuQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/cairo.txt</key>
+		<data>
+		q6jXbQr2fVfaPDwyHKpZ89JCOGs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/glew.txt</key>
+		<data>
+		bIuroqJwQLRTaTbBuAuTue2+TDs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/libantlr3c.txt</key>
+		<data>
+		kT4+MmkYchX5onD/GM6eQw2Mbr0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/libpng.txt</key>
+		<data>
+		2iWOUlPraM1txXuHCqAALyH+jSM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/libsamplerate.txt</key>
+		<data>
+		sUynhTYaHtQxBFrcjaGTHuwuPK8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/pixman.txt</key>
+		<data>
+		O5Cq9zD6IEYPj+P9IMFtrzrKulk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/portaudio.txt</key>
+		<data>
+		TuGeu1EPwYtlwXn/LfVKubsSTy0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/taglib.txt</key>
+		<data>
+		q6jXbQr2fVfaPDwyHKpZ89JCOGs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/vmath.txt</key>
+		<data>
+		ZIM5nKMMxszDtF71Y5tC+xnUu7o=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Broken Spring Rev.preset</key>
+		<data>
+		7eraOu72LpnNrrtc316JfOJNgO4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Clean Chorus II.preset</key>
+		<data>
+		/uwvZW4W9nI1dr+9OKmq2kzZM5g=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Clean Chorus III.preset</key>
+		<data>
+		Y3W4g6dlY//YV9q0x1yiT8q0+vc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Clean Chorus.preset</key>
+		<data>
+		QpJJfEgHnr1ybz9kLzPvQ/29qTM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Crazy Depitch.preset</key>
+		<data>
+		T8W8MRaPTBV6Vu3Ei+yaFUa6GHI=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/De-pitch.preset</key>
+		<data>
+		eMrlNt5wCh0Hk/E/aCE8+0ubEJA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Default.preset</key>
+		<data>
+		LA+GkHkheesKEMUDM0NU323eKdo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Flangy.preset</key>
+		<data>
+		jfo/3komDWzI2GE/VWtEaTndfA8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Gargle.preset</key>
+		<data>
+		NjwDsKpUEvQ5isGcEmg2PaSG5yY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fifth+12.preset</key>
+		<data>
+		iu9DFx3UGaiphroA88PTAaTgUFk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fifth.preset</key>
+		<data>
+		lVWmhhW9e21R2QfOEmGRD0zOFAc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fourth+12.preset</key>
+		<data>
+		L11dunLzRunfd8I6zrOP3Sa0cKw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fourth.preset</key>
+		<data>
+		L25uJbmVoynloe9GwXEBc70NRic=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Octave.preset</key>
+		<data>
+		6Nnp98oljt7ql8K79Lz768QHszk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Third+12.preset</key>
+		<data>
+		97wwmHaexTwJwadHMeCw+Hw4hUI=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Layouts/Alternate.preset</key>
+		<data>
+		71yn0aTtkhbdV6vhLRQKdiA9nlI=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Layouts/MIDI Setup.preset</key>
+		<data>
+		6cfnxYvsM/K6jekTmXv7n4MN9sM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Layouts/Transparent.preset</key>
+		<data>
+		VbHXnmeBEplodtzlb+aSsT8M/Rs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Broken Spring Rev.preset</key>
+		<data>
+		prOHD0NyLr+G18d4Ucg5sZN0ovE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Clean Chorus II.preset</key>
+		<data>
+		ydhhScL02P8e6iq/UfpUbXjpJUs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Clean Chorus III.preset</key>
+		<data>
+		4QjQCHk8NXBfuEs5qrH+nSpg+mQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Clean Chorus.preset</key>
+		<data>
+		q9nrg9xdbNMSNSHhSHF0CIJVtHo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Crazy Depitch.preset</key>
+		<data>
+		fl4B8JgaxKn68nOeXCzJTlUpFC8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/De-pitch.preset</key>
+		<data>
+		Wb3inqul3gvq4No2+H70bhBLRd8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Default.preset</key>
+		<data>
+		CrE+uAKnJcuehnk6V13U8de81F0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Flangy.preset</key>
+		<data>
+		EBMnNKILd0Ti8rhj5MY/aKQeziM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Gargle.preset</key>
+		<data>
+		h45rmqGyCyRpwSh1KvGVrP6QshE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fifth+12.preset</key>
+		<data>
+		9/0vfgDuwVvoQt1FqgwRxuSSqds=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fifth.preset</key>
+		<data>
+		bPeaIq5mc0cY/9jh/EJLVu9ZOEE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fourth+12.preset</key>
+		<data>
+		6oJjSFhRFq1ppr6aZZDAGGPOtxk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fourth.preset</key>
+		<data>
+		F3Estw18g5jDw7hPaIu0rXdnPFQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Octave.preset</key>
+		<data>
+		qIpYkTBvGuoeM2d1MszUVr+x4K8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Third+12.preset</key>
+		<data>
+		O3m28ElyvvIuQX39V1jAm1jIaHM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Normalized.preset</key>
+		<data>
+		UGqSrKdXblU87vgfg7+wo4qTT5s=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Oscillator.preset</key>
+		<data>
+		hZM3fLp5uYvm+phu96/h9uR0WLg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Reset (No Effect).preset</key>
+		<data>
+		DkdToBpy/MpsmU9nN65LrOZPdZg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Short Delay.preset</key>
+		<data>
+		/WX+twee4Ml6gGmM6ES0Qy3w53E=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Twelve Strings.preset</key>
+		<data>
+		nCgKLEn1zUIHx3kp63JzTnkTc/M=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Vibe.preset</key>
+		<data>
+		zc95eOJRVPRnUekKIB4DKzRNOp0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Vibrato.preset</key>
+		<data>
+		FHy0BY648N8DfaJfq1TT12+qthE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Wet Vibe.preset</key>
+		<data>
+		+p6B7+xNKijwrbVLvYZ7WsUXbyM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Normalized.preset</key>
+		<data>
+		alowfY/eEBi+o2roqRr5TdCuD0g=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Oscillator.preset</key>
+		<data>
+		J23NrmRwM8FtlJldPvoYRHlkEls=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Reset (No Effect).preset</key>
+		<data>
+		/WiqapIv+/T9plala2SCu+qPSek=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Short Delay.preset</key>
+		<data>
+		TUFgw9+RNmT9dw4XJ0XqAfhkC7A=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Twelve Strings.preset</key>
+		<data>
+		p+klee8Wa/G4DITQ0um5SiVEIas=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Vibe.preset</key>
+		<data>
+		pxSFn8bzCru1KcYHuB/hGK8UShQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Vibrato.preset</key>
+		<data>
+		4RW+T9dFxA3I+RvKdt7yd6ueeVY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Wet Vibe.preset</key>
+		<data>
+		xQGj+mS6lIVMVB7eltUCwcNnItM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/buttons.inc</key>
+		<data>
+		t/wY8AyZoo4v36oRyY6EjfweYC4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box.bmp</key>
+		<data>
+		b1fbzue9t0AF/nXEUtqNuKfVFcQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box_focus.bmp</key>
+		<data>
+		5LoTm7EMTPvWjDEnkYGtdEqAsr4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box_hover.bmp</key>
+		<data>
+		5LoTm7EMTPvWjDEnkYGtdEqAsr4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box_pushed.bmp</key>
+		<data>
+		5LoTm7EMTPvWjDEnkYGtdEqAsr4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown80.png</key>
+		<data>
+		TmN4+epjKQo2E9mbU7t2EbIW+KY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown80_pushed.png</key>
+		<data>
+		L+S+hgnOOGak5H3FPhNkCgFg+Go=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown90.png</key>
+		<data>
+		Maijv7U/loAExmLrJhJmws62wW4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown90_hover.png</key>
+		<data>
+		x0T4VHCis3FLbKIRoKOR3eJtdyU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown90_pushed.png</key>
+		<data>
+		Cm6+vaU53jgFCLm2xf+yoZJzD00=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/edit_button.png</key>
+		<data>
+		XpK5Exphgin32RI8+YZ3uJ0XyBQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/edit_button_hover.png</key>
+		<data>
+		gcYs17mGhFdQ4Pm6Uwrie0FuH4k=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/edit_button_pushed.png</key>
+		<data>
+		rMAJ9NjJE5Pxcf9/6nSa0txbgrI=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/on_off_button.png</key>
+		<data>
+		VVSLqTFcwACsbxVT2DeR+cAKOmc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/on_off_button_hover.png</key>
+		<data>
+		ps+AzUeBi8hh2xHSx7J+GgewSSw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/on_off_button_pushed.png</key>
+		<data>
+		TL/lYWFpnF3RNPKT//gnJYfxbkc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/refresh_button.png</key>
+		<data>
+		Gn6yURE8R21I7SFnO3fmfKdGCcA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/refresh_button_hover.png</key>
+		<data>
+		ysKoNYOLAfmAaTcSc/YFD+lVWcM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/refresh_button_pushed.png</key>
+		<data>
+		pPeTgg+uG/6wd2xB5S5oq70ys8E=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_controls_button.png</key>
+		<data>
+		a80YbsWbPYK/gBjegkEFtXdKwwo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_controls_button_hover.png</key>
+		<data>
+		FK6Y7vaF1olD79cxbiGgcpkIJaU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_controls_button_pushed.png</key>
+		<data>
+		7LPDFZvfQrKfyD2RRlW3oKPOwzo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_graph_button.png</key>
+		<data>
+		DPCXwBabQG98hY9tkqsqMmz0eDE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_graph_button_hover.png</key>
+		<data>
+		Tnuo0OP/zRMmLUBsAntUKdYl5GQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_graph_button_pushed.png</key>
+		<data>
+		HRUl5sV5mXMh4cF6bsS4wXf1IYk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/status_rect_button80.png</key>
+		<data>
+		+jATDrd50v6cAYuIgaPj+bfl4lQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/status_rect_button80_hover.png</key>
+		<data>
+		6fu8zgVLe+Zt9IiqBtayw+la2rc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/status_rect_button80_pushed.png</key>
+		<data>
+		RMgMSZHkKt85O5X4vfz+YfNk/qo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/background.png</key>
+		<data>
+		i3+FJiDPgV4UGNrKrxk/YzdnJH4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_bottom.png</key>
+		<data>
+		Vqf7iGf7srWUuVfHZX14Q5LecMs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_bottom_left.png</key>
+		<data>
+		FIL6cKQREDmsE+1jM1xODVt9gi0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_bottom_right.png</key>
+		<data>
+		RDpTfMqmS5kpy6CLrmer/QK6GeA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_center.png</key>
+		<data>
+		aOvGFUvhqtpoKVIFKAJGL0h9cHk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_left.png</key>
+		<data>
+		lrb23grSAdZmKF4z652NUpbg/P0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_right.png</key>
+		<data>
+		3iYg3h00nkh7ow6mFhH3hOilUrw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_top.png</key>
+		<data>
+		YOUydc6YxmQt9EkDWyMsECG4OJM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_top_left.png</key>
+		<data>
+		Jha4/kSC+JV3uhc7uYdtI6FWBBc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_top_right.png</key>
+		<data>
+		v1bynu0WEXmuGlwBy14qoT3kVGA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/decorations.inc</key>
+		<data>
+		V2hf7leILd7fOIqARVD2q5BWB6g=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_left_bottom.png</key>
+		<data>
+		ONDX7B7RVnW0Lo4R6tWkU+/8W9s=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_left_center.png</key>
+		<data>
+		J0F0uuhyVizfDYL9D7Vn47BoS9A=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_left_top.png</key>
+		<data>
+		vW2UTPgKj2cJnk9ihSSWGLl03Jk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_right_bottom.png</key>
+		<data>
+		RfctyAzZy5Zj2zTjoVHc0FDlKQs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_right_center.png</key>
+		<data>
+		5E7xbm9XPtjODmhsdY0+xkPQtXA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_right_top.png</key>
+		<data>
+		UrVqyfhK1OUcNTTwtIxdWaolWmk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_bottom.png</key>
+		<data>
+		0KJ3/mmDtKlOZ5Ax8DQPDMB6OhU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_bottom_left.png</key>
+		<data>
+		bxSjk3jBLI1mydUaCA9o1VKIfGw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_bottom_right.png</key>
+		<data>
+		huaicWKCHWMF4auHcxazQCWI1QQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_center.png</key>
+		<data>
+		GM213uLGEHnEOYRfmVZTStDYhSA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_left.png</key>
+		<data>
+		MqN7obCohDntXNoAXaFRoxJBH/I=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_right.png</key>
+		<data>
+		/5JvI2GOFLf6K7wCxq0FkNM+trU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_top.png</key>
+		<data>
+		22SHprx1mpRb+WAgFbGmOm2WYUc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_top_left.png</key>
+		<data>
+		Lc8dxuWLfyNGXLOd69ZaEtMSH1k=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_top_right.png</key>
+		<data>
+		8V3i+PEYEwaIJDekByV/x10JIXY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/screw_small.png</key>
+		<data>
+		L4Ek4GHVVviJxY8PuMkVIQq+g4k=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/status_bar_center.png</key>
+		<data>
+		LAgjGz1SBAt1QeFxnJ16KVvP9zw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/status_bar_left.png</key>
+		<data>
+		t7dFGA3Ydf15kxUj/9z6YarL8YA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/status_bar_right.png</key>
+		<data>
+		D4CXF+CkXhtPU1u4wOX/U4qML7Q=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box.bmp</key>
+		<data>
+		9l/pvjd0SrSd8QJWYIgeBDumM8A=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom.bmp</key>
+		<data>
+		jrq9E8MO6mjYS12UuBsqocxbDtg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_left.bmp</key>
+		<data>
+		s4dcA7kUSApWvEilwKhLyuvh0Nc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_left_mask.bmp</key>
+		<data>
+		QnlnpndcJfaQVY76WpMd1Sj/J7I=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_right.bmp</key>
+		<data>
+		4qoDTeQSEygwq+8nzQ95h4klB2c=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_right_mask.bmp</key>
+		<data>
+		eFHMBYDzS3M2n4VD9EOZ5N6gO1A=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_left.bmp</key>
+		<data>
+		HnwnHtar+e36NGlM+cVOdcg2OMY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_right.bmp</key>
+		<data>
+		fH/ZNCKB0vDNxl/kYp+N6ViLR2M=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top.bmp</key>
+		<data>
+		mga9HWUqI5kHCxEZLzi9QkUeE6A=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_left.bmp</key>
+		<data>
+		jHJ8Ujs2CKRyitenlHwKSY02Bqs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_left_mask.bmp</key>
+		<data>
+		zmYVfHRSDEzDissojxiarHpz99I=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_right.bmp</key>
+		<data>
+		ugpKpY2uO2kffGJuyjPsrq9Fpp4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_right_mask.bmp</key>
+		<data>
+		o/SMEqLDNvIqja2EVHrC5RkoHGk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_bottom.png</key>
+		<data>
+		v1Vz4j6m9VigWsL/ClrNvR9tADk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_bottom_left.png</key>
+		<data>
+		T94b6TR6PpqGeBlCI3X3VZ8aAhw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_bottom_right.png</key>
+		<data>
+		zxW1H61C1AiIrLqCi6DYU3OzNEc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_left.png</key>
+		<data>
+		zBODJ0sK3qsNpKJWw5ph77bVPMY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_right.png</key>
+		<data>
+		28Bq+2H05cqgCEgccmwcKg3XueY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_top.png</key>
+		<data>
+		gGpJtUAFkKd0xlpongM05tu7EXY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_top_left.png</key>
+		<data>
+		VJtYol6KsUlwYsMPI8Gr9r2QU7c=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_top_right.png</key>
+		<data>
+		oFTXdQ8fi+LimHPbMPk9i17uICY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue.png</key>
+		<data>
+		7FWOSGjxgAJGCrxCirlilUsTL80=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_bottom.png</key>
+		<data>
+		iZVzWTzzhr/YpDtlSRxrEZxMMqI=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_bottom_left.png</key>
+		<data>
+		t725g1xPv5E535BAVeQNM0GFQAM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_bottom_right.png</key>
+		<data>
+		7XX/anK3f4nEJukhUWdfAphalw8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_left.png</key>
+		<data>
+		pKGu7D8uXButDqf4+StkI8tFZGY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_right.png</key>
+		<data>
+		COKkDKjlxHi0Xh7X/r4UmGGWBZs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_top.png</key>
+		<data>
+		y18Yf6aBawm5qqJGak6YYJincc4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_top_left.png</key>
+		<data>
+		GQjMlfgbH0NwMYIVmpgj+3BAFH0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_top_right.png</key>
+		<data>
+		poPgjyOo4fDdZJ1vtwOKcxrrHQs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_bottom.png</key>
+		<data>
+		L0GsFavBSKdcCkQx0HmJVuDIEbc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_bottom_left.png</key>
+		<data>
+		OVdhc4SqR54zkP8IW2ryAyE44uY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_bottom_right.png</key>
+		<data>
+		WZc1gKTe9Q0RbyPD6ijdNMleawU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_center.png</key>
+		<data>
+		oJ2HAChMm7I9kEG5PLUhDjGs6aw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_h_separator.png</key>
+		<data>
+		E3pmOBSWmjZQ5E4/pCODZAjS/6I=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_left.png</key>
+		<data>
+		RFQSkP+XIaH49KI612p5jHBf6fI=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_right.png</key>
+		<data>
+		b563OtdYWuddjNbcH1YnUc6bKdc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_top.png</key>
+		<data>
+		AmNj4R5Uhbp4w1RHmgvIgd+CFHw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_top_left.png</key>
+		<data>
+		rq3IEb5nkOvyhfDhNeQ12bHIplE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_top_right.png</key>
+		<data>
+		xJxwQgzfH5SE7313UTS4bw4mdFM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad.png</key>
+		<data>
+		0QsFaJpp3BdDrjn6HqWggYfN5/g=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_bottom.png</key>
+		<data>
+		MNR/eyWR5wgvOdOeKeEt/jQvPA4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_bottom_left.png</key>
+		<data>
+		l89df9q7ui7SONcBhp+tmwIw+h0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_bottom_right.png</key>
+		<data>
+		ydzZqkXkkPgm92RsukQ9du+EAcc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_left.png</key>
+		<data>
+		DxtcqP5Jje4/MtSC/CH9m37qi7Q=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_right.png</key>
+		<data>
+		YK1jkmBsze6HMoHach7BN3aOGy4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_top.png</key>
+		<data>
+		1f4+GSY7CCovL//AiCPAMB5HRPs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_top_left.png</key>
+		<data>
+		GQsEGNxxxjwrqI9MBOrVv3lVRFM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_top_right.png</key>
+		<data>
+		EA4iJgWdfaqMyyG4UekFbmKnqsM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/includes.inc</key>
+		<data>
+		6C7lSrSRVMclRNnPaQCUWdLXjFw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/dark_knob.png</key>
+		<data>
+		/GqeZzBsBqeE+O5WIY2JNVTwK/c=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/dark_knob_sym.png</key>
+		<data>
+		vqdqNhlgB/toMAg9SwOrMgRkoQo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/knobs.inc</key>
+		<data>
+		8bfpVy0Zf7V0Tqlq/7ngS5hQWLQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/opacity_knob.svg</key>
+		<data>
+		OZH2JIVXUkHOVpocWteE84QkZ4Q=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/round_meter/round_meter.inc</key>
+		<data>
+		yOupnyRZKVpCo0kc+dp9ZwQEkBM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/round_meter/round_meter.png</key>
+		<data>
+		4g/+RqbseF1adhil4upbHYWH6Es=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_buttons.inc</key>
+		<data>
+		N4p0R26w6k++kSwl4+XW38aVQ6w=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_mini.png</key>
+		<data>
+		CDq8NQ8qvnz8qAduI3IzzkWHsDE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_mini_pushed.png</key>
+		<data>
+		9p80EquMoya47y6vrD9T/7RJKeQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_rect_small.png</key>
+		<data>
+		JaPhINDmUKvcvD+WWhHVx2Thjbw=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_rect_small_pushed.png</key>
+		<data>
+		jujBG81cX/r2Y4l2qPiIH/coH8o=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round.png</key>
+		<data>
+		Tnm2ekVfci2e6ZtQG33WIQFC7H8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round_pushed.png</key>
+		<data>
+		yTn1GyC2+J4FRmXa3Y6CATm7230=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round_small.png</key>
+		<data>
+		uP3D8fH08edjzX6TLAYCWNgJqg8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round_small_pushed.png</key>
+		<data>
+		ysC8ZJO+n127GVX5NZvsVG6p+E0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_square.png</key>
+		<data>
+		JXgbFFB7RBfv8TvfNodtyQyvZdk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_square_pushed.png</key>
+		<data>
+		UgnjJR9u6ettHGOcbXXx1qcWN/E=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/h_select_switch.png</key>
+		<data>
+		8YnVoA5mc/UNJWZ/wky1/ZBvpz8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/h_select_switch_pushed.png</key>
+		<data>
+		UBuNtwReC2oh1VVA4PNqT0jqfg8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/switch_button.png</key>
+		<data>
+		/bziQrjePC12KAnP7TkPDGqDGTc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/switch_button_pushed.png</key>
+		<data>
+		jYK0iEP7aEle8UeKUWmfxW8a+f4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/switches.inc</key>
+		<data>
+		24VBwD5zvGyeBk0uO7YNl59WZyQ=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/v_select_switch.png</key>
+		<data>
+		qFys2Z9cOkB7s4UaPuUqb9CHdlk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/v_select_switch_pushed.png</key>
+		<data>
+		74pC5F4tbzDnyiAHW1aCB7WzSNA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/theme.inc</key>
+		<data>
+		w6P1RuzeCjHGKy6nLXa0WFQIIps=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/about.png</key>
+		<data>
+		RYZkxnmZ+almPyLBisNJg6XL584=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/about_hover.png</key>
+		<data>
+		Wd5+G8xtF3sAoXwVfOCmlaAZWAg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/about_pushed.png</key>
+		<data>
+		W/SvDoYk+IvPig7x+UDP8Q18VRo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/arrow_left.svg</key>
+		<data>
+		Ba6+f/SGEWTaK3zqF9uXhxWO2D4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/arrow_right.svg</key>
+		<data>
+		3k4GQQj37RVJnRSdqDSeKjp8C50=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/gears_button.png</key>
+		<data>
+		yeQBEe38XUgBwvlvG2pk5g+V7jg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/gears_button_hover.png</key>
+		<data>
+		ZiImmOKNaEkgaQKxhU9/DtQcYoI=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/gears_button_pushed.png</key>
+		<data>
+		iOdnBSUhHjNCSoLqNP+3S1vaN/8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/help.png</key>
+		<data>
+		Ij/A/l+q5vjlbAJVnQKjpk+bN44=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/help_hover.png</key>
+		<data>
+		Sup7cY+b2y4Ql91WJCse5Kx2KKU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/help_pushed.png</key>
+		<data>
+		vUsKB/tpIOnG7sb4ZKc/Xycw9eM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_bottom.png</key>
+		<data>
+		9lRZ2XjC+us5/QJKetx1LMUbVpo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_bottom_left.png</key>
+		<data>
+		levBucHUkivruFEFQNikFU3CSPg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_bottom_right.png</key>
+		<data>
+		um0/5TneZQ383daWD7LUSlT6BuM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_center.png</key>
+		<data>
+		9jry/1nTHOY5Id47q6FKEYg69J4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_left.png</key>
+		<data>
+		4B5roxGaqpXsJuBxfJgOuR2qO/4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_right.png</key>
+		<data>
+		zAeqtAtPaj1LrHj5yMZ0pc3TIEk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_top.png</key>
+		<data>
+		2YvmFrlWB4Alrnpq+It9dopNTlM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_top_left.png</key>
+		<data>
+		sskr/ja0k70sGRayUynbrlb0ijY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_top_right.png</key>
+		<data>
+		Wek4ggCwplaG9jvGTuGl+2C2tGY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/logo.svg</key>
+		<data>
+		DJzTTdzlLOhRCXjZS0SispsjQ0s=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/menu.png</key>
+		<data>
+		vHfyFsC0ZG4178sxdI2oeq13CxM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/menu_hover.png</key>
+		<data>
+		5sG4wCkI4ANZyINVCOLW8ojj8mY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/menu_pushed.png</key>
+		<data>
+		XSa017Do4mz+d46PVdlDENc7s/U=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/power_button.png</key>
+		<data>
+		vy8NglUEytTQ/6MZOYtbG4m63O4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/power_button_hi.png</key>
+		<data>
+		xtYJYj45xwAZ2xfLWA8GDrzx99Q=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/power_button_pushed.png</key>
+		<data>
+		l5I7TAOoyBXn3hcYMFUcCIg14Bc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo.png</key>
+		<data>
+		DavEgQSnZHnO5+pio4KFnbaaHrk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo_disabled.png</key>
+		<data>
+		IVovNkA+xpFdif5teSW7KpWXqjE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo_hover.png</key>
+		<data>
+		x7ccIB6EpaQLoRQXCG1LQSnv0Kk=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo_pushed.png</key>
+		<data>
+		5bMhgwX2D8NEgsmGq6Zf8ePMsRY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar.inc</key>
+		<data>
+		TiziD83O7+4tDpJzDmvY0RPOHn0=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_bg.png</key>
+		<data>
+		qnHtTTvclWR4/JiAvshSPfUKfLg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_bg_left.png</key>
+		<data>
+		rWJ8h9QTxIrUWDSf5TIOsf1hzpg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_bg_right.png</key>
+		<data>
+		nijLAF6nCXccslqn/b5fy46+YU8=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_bottom.png</key>
+		<data>
+		m6FO/YnvHCjlZbQGbCWv4lKylbs=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_bottom_left.png</key>
+		<data>
+		Vgj69WMrktr176+dt95oBF5WZWM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_bottom_right.png</key>
+		<data>
+		NkNWqVo9xPi6fOCd/VzUkMy5gcM=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_top.png</key>
+		<data>
+		c3NL5OrT1tL9PRQqk13JIlJA/X4=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_top_left.png</key>
+		<data>
+		LgqkHheSw56tGVw5Xs4Ca+8slNA=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_top_right.png</key>
+		<data>
+		jKzd5l83bFFKuzLJG3fNMVTA490=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo.png</key>
+		<data>
+		VkvgJ9kgHfBCJeIdc1jk24D++Bc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo_disabled.png</key>
+		<data>
+		hk+skMi6AOw0pHCqw+UJQ9K/6iE=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo_hover.png</key>
+		<data>
+		a1DmgJy5rClpAoWLDN6XvTS43+U=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo_pushed.png</key>
+		<data>
+		TOPMrGIBdmHxbapSp+VdFLHWbmg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/zoom.png</key>
+		<data>
+		fCWuJ1R3PALfmTY96KeRYyLicFY=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/zoom_hover.png</key>
+		<data>
+		iEThRd4d5bHM/gjHoYnrPGyJcbU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/zoom_pushed.png</key>
+		<data>
+		k98E5PBPh8thqR9NRgXNKLogKjo=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/utils/tpl.image_opacity_box.inc</key>
+		<data>
+		1h89oZXsNxdBY0vKB9xICBRY/cc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/alternate.xml</key>
+		<data>
+		05sgt9N79YtSM58KQALS3y4BXEc=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/chorus.svg</key>
+		<data>
+		6Y4c885C+XIsgp2X4tqYRMvnv98=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/default.xml</key>
+		<data>
+		IExVG9wj4jBGdS78FtBzS3OVDnU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/mapping.inc</key>
+		<data>
+		2RnEqCxpHTyfD+09R9JkinB/8MU=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/sine_wave.png</key>
+		<data>
+		vDQGy9xOgj2c34wZcJvGE2qcTQg=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/triangle_wave.png</key>
+		<data>
+		TMEuDgyWKi5gYOSQtCNV0gaZX1w=
+		</data>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/manual.pdf</key>
+		<data>
+		V4lrfkEvf/etMKULl7TIXgDSM0U=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/about.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			By1xndXhFNw1B8QiZs+JHojVJMg=
+			</data>
+			<key>hash2</key>
+			<data>
+			HHvegz/cfgvPHBWm2QtkY8aQZGS78DqMfX2doH7ry3o=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/about.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qeMUyQZAHw8I1z2+yd2E9Ycd4CU=
+			</data>
+			<key>hash2</key>
+			<data>
+			PcSRGACLD4eAZTmvoIwjE6bAnp9o1wFiAHlIGnkwaD0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/bg.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tVItqqjFAgnut4H7P2PXowt1E7w=
+			</data>
+			<key>hash2</key>
+			<data>
+			c+FPCv681DC/XBTB2pRzQOVANXSWCNGgk6FmvUjpfZo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/About/logo.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c3KXgBnzHbsypidpFx4iAhc4uO4=
+			</data>
+			<key>hash2</key>
+			<data>
+			WWxnBXKXUftOmgGEHYkjoMZlZNL0gW9+enS3vnpfD90=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/EULA.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LCRINiGPyUlAALfFtCvLG9cBg+Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			j0v0lO8WDyqgSr2FXhCwsA7wWCBMWRvEdr8X6TCWP1g=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/README.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			20slsDGVKapu3oY6VeqN6vSxwMw=
+			</data>
+			<key>hash2</key>
+			<data>
+			3CCVsjmgRN9DvrpjYgxpbv9EU8NvEOqItwf8uuop+7A=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/Xercesc.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R7Vz44JM1eAqGjrpnic1tJ4CVuQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pd+b5cKP4n2tFDpdx27qJSIq0d1ok0oEcGTlbtL6QMU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/cairo.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q6jXbQr2fVfaPDwyHKpZ89JCOGs=
+			</data>
+			<key>hash2</key>
+			<data>
+			U2kqLtbGosbsmzLdC4IN+ukeCh/N9iXKntC9+HBfzE8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/glew.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bIuroqJwQLRTaTbBuAuTue2+TDs=
+			</data>
+			<key>hash2</key>
+			<data>
+			OKON4XSHFGchk/EsZBJImgD/ZaYeG9LanzYNuZDRVs8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/libantlr3c.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kT4+MmkYchX5onD/GM6eQw2Mbr0=
+			</data>
+			<key>hash2</key>
+			<data>
+			+CW98U2KRMajTxOKabuw7ARlUoa1wSfsw0TgR3M0m2Q=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/libpng.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2iWOUlPraM1txXuHCqAALyH+jSM=
+			</data>
+			<key>hash2</key>
+			<data>
+			oRCOf0KdJT/KqT7/agEvjuCAjQhOrp+A92M5kwN6ABg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/libsamplerate.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sUynhTYaHtQxBFrcjaGTHuwuPK8=
+			</data>
+			<key>hash2</key>
+			<data>
+			LB92zi7/3dtCUBhAXVaQwLGrTml241KWsKbbZcXhpV0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/pixman.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O5Cq9zD6IEYPj+P9IMFtrzrKulk=
+			</data>
+			<key>hash2</key>
+			<data>
+			+sknDwmHuW/0Uz/KNUjGM+Agg8u6SgFyo7FJsuQBl5M=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/portaudio.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuGeu1EPwYtlwXn/LfVKubsSTy0=
+			</data>
+			<key>hash2</key>
+			<data>
+			7FKhlS1wH5TlE1cZpHN22k7gtKAgHxyvtJ9h22SArD0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/taglib.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q6jXbQr2fVfaPDwyHKpZ89JCOGs=
+			</data>
+			<key>hash2</key>
+			<data>
+			U2kqLtbGosbsmzLdC4IN+ukeCh/N9iXKntC9+HBfzE8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Legal/ThirdParty/vmath.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZIM5nKMMxszDtF71Y5tC+xnUu7o=
+			</data>
+			<key>hash2</key>
+			<data>
+			6Kv0nXLpaQIsLH2AvKZaTY9osmUpwsAy7GQ9PwFqSNY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Broken Spring Rev.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7eraOu72LpnNrrtc316JfOJNgO4=
+			</data>
+			<key>hash2</key>
+			<data>
+			/MVEbxO43CN9226VlewyaPweZcKBuaKDRUd8/m+zTdg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Clean Chorus II.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/uwvZW4W9nI1dr+9OKmq2kzZM5g=
+			</data>
+			<key>hash2</key>
+			<data>
+			aYjKzsBeVD6wjHEXOXrKaZFUF1m1CNv1Vp/LjzueJGc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Clean Chorus III.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y3W4g6dlY//YV9q0x1yiT8q0+vc=
+			</data>
+			<key>hash2</key>
+			<data>
+			t6N3FDezfkGLf6brVhKoredYaZ7N5qpJsYLo29KZ9uQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Clean Chorus.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QpJJfEgHnr1ybz9kLzPvQ/29qTM=
+			</data>
+			<key>hash2</key>
+			<data>
+			b0dm2hMvNkrvWM7WTJmwo1/lU2o8oe44QVe+/I7120Y=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Crazy Depitch.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T8W8MRaPTBV6Vu3Ei+yaFUa6GHI=
+			</data>
+			<key>hash2</key>
+			<data>
+			CZwpZa1QlxB3W6FQ5GSN6s/5TJZH7kVGJ6PMY1iGShE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/De-pitch.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eMrlNt5wCh0Hk/E/aCE8+0ubEJA=
+			</data>
+			<key>hash2</key>
+			<data>
+			l2+3bFQu+ahxEWJglBXfNR1ZSNwUmVRgpT/V9dXStk4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Default.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LA+GkHkheesKEMUDM0NU323eKdo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hp/WO/BjX3T2tkC/NnfFHlfAzFO44kPs52KwJXs27uk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Flangy.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jfo/3komDWzI2GE/VWtEaTndfA8=
+			</data>
+			<key>hash2</key>
+			<data>
+			gTSQE38NfkpPbqeq9WJ2Pc6pPRefMqd20K1TrRgqoCc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Gargle.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NjwDsKpUEvQ5isGcEmg2PaSG5yY=
+			</data>
+			<key>hash2</key>
+			<data>
+			uYKfneGRV0Q8mc8xg8qQHmfMX+qHzRvFdxld8b/UN4Q=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fifth+12.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iu9DFx3UGaiphroA88PTAaTgUFk=
+			</data>
+			<key>hash2</key>
+			<data>
+			+Rk8+UB3oj35S+rKG7LRdPa6CiyLNNT/4MwONnZTpw4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fifth.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lVWmhhW9e21R2QfOEmGRD0zOFAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			75zb4MPqMsuEl5HdoRzqowAT9Ck3rh78oOVCu85RPyM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fourth+12.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L11dunLzRunfd8I6zrOP3Sa0cKw=
+			</data>
+			<key>hash2</key>
+			<data>
+			wzHZEtYDdjIxV+13W5ff/kNxdTTVCgBg7zd7lI9X3LA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Fourth.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L25uJbmVoynloe9GwXEBc70NRic=
+			</data>
+			<key>hash2</key>
+			<data>
+			0dzNct8rcuAjnSsLla8FEJYBSZR8AlQZQYqAw8cSn4M=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Octave.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6Nnp98oljt7ql8K79Lz768QHszk=
+			</data>
+			<key>hash2</key>
+			<data>
+			YkcKUGuPjL/BAM0IrgUmgldM+bKr8qzHSEpK6AehqWQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Harmonizer - Third+12.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			97wwmHaexTwJwadHMeCw+Hw4hUI=
+			</data>
+			<key>hash2</key>
+			<data>
+			aPCyJL1tn+7IXvv3Vp3h8B5iFfTHRIUNt/dAgEsQ7ec=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Layouts/Alternate.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			71yn0aTtkhbdV6vhLRQKdiA9nlI=
+			</data>
+			<key>hash2</key>
+			<data>
+			A3uD/T4HXjz4Hmb8TkzINXbGy3A+obkl2YMdd/8iELE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Layouts/MIDI Setup.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6cfnxYvsM/K6jekTmXv7n4MN9sM=
+			</data>
+			<key>hash2</key>
+			<data>
+			pVYBWxmqzVrBOfXY0F6uhj9KcUx68LRZgCQ4iy5+bGw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Layouts/Transparent.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VbHXnmeBEplodtzlb+aSsT8M/Rs=
+			</data>
+			<key>hash2</key>
+			<data>
+			fPsCyG9s/L0Utlwe8MkBZ8zujiSZkU9vVXYlnd1LYe0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Broken Spring Rev.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			prOHD0NyLr+G18d4Ucg5sZN0ovE=
+			</data>
+			<key>hash2</key>
+			<data>
+			ogw9qqrLjTiZO6kpRUboejZOD5Gjn9mBn47QuruUa/A=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Clean Chorus II.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ydhhScL02P8e6iq/UfpUbXjpJUs=
+			</data>
+			<key>hash2</key>
+			<data>
+			jdQ1urxg6W6hMjxfOF+G6166rSYHO9Q94WnDB4qolMg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Clean Chorus III.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4QjQCHk8NXBfuEs5qrH+nSpg+mQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			UKJU3VcUf672VtNxYUo2EVmIXyWIlknWPPoux/xAxes=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Clean Chorus.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q9nrg9xdbNMSNSHhSHF0CIJVtHo=
+			</data>
+			<key>hash2</key>
+			<data>
+			XualTR0TJFQ9P/FcWB1onEOE6VxioSF8LxoNpPJV/yY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Crazy Depitch.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fl4B8JgaxKn68nOeXCzJTlUpFC8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kkgb/8R7K81oZm+ZR/ZiPrxnXCb5MzpJhqjXn975Lfk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/De-pitch.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wb3inqul3gvq4No2+H70bhBLRd8=
+			</data>
+			<key>hash2</key>
+			<data>
+			KAqJZrr/JOWjKksMFRkaAigqgSssUWJShCF+fv3M/Fg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Default.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CrE+uAKnJcuehnk6V13U8de81F0=
+			</data>
+			<key>hash2</key>
+			<data>
+			zwxhPe+Sgi97B3zy7yYB8OU0TyABIvGTuy6sjtuka2k=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Flangy.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EBMnNKILd0Ti8rhj5MY/aKQeziM=
+			</data>
+			<key>hash2</key>
+			<data>
+			YYJV5xu/ZjtIjAVekhxT62M54BBtRzSLBybbQyYvIqs=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Gargle.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h45rmqGyCyRpwSh1KvGVrP6QshE=
+			</data>
+			<key>hash2</key>
+			<data>
+			kSqGJeSf6ACSSK2l0CIFlhSZddL207MstcQhiKhnqJ4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fifth+12.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9/0vfgDuwVvoQt1FqgwRxuSSqds=
+			</data>
+			<key>hash2</key>
+			<data>
+			5VNU06CAmzOn6lnu+1uHrYS2orSXOAc9gQcM/cWavnM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fifth.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bPeaIq5mc0cY/9jh/EJLVu9ZOEE=
+			</data>
+			<key>hash2</key>
+			<data>
+			mulyD6SlhenWh/ZAn40I1NHuomRj3+4PhEw20g7cvm0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fourth+12.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6oJjSFhRFq1ppr6aZZDAGGPOtxk=
+			</data>
+			<key>hash2</key>
+			<data>
+			nkEXII/xce2BXfRNQPFqysfg39uATJvOXnj1Z7c6gVY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Fourth.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F3Estw18g5jDw7hPaIu0rXdnPFQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			X4H7l5P4x/Pdei2p7zun5XQEMwI5TWC0uW8cIf/503g=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Octave.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qIpYkTBvGuoeM2d1MszUVr+x4K8=
+			</data>
+			<key>hash2</key>
+			<data>
+			NJLiXiNXOqPvXAlPzwU68jd/BiSSneMn9mQ0h+QlRNI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Harmonizer - Third+12.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O3m28ElyvvIuQX39V1jAm1jIaHM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rg3VyJ2RBOBsPZVFP7v+TFMfxgeDwIT5ndi0dZdWQ90=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Normalized.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UGqSrKdXblU87vgfg7+wo4qTT5s=
+			</data>
+			<key>hash2</key>
+			<data>
+			gBMZcHaE243xWCJOpscix8Ma1r/d7e55GMf3sI2+FGQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Oscillator.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hZM3fLp5uYvm+phu96/h9uR0WLg=
+			</data>
+			<key>hash2</key>
+			<data>
+			dqVToLP8EIazb73HI8u5oodLJSC//XjBe/1zWieXLqU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Reset (No Effect).preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DkdToBpy/MpsmU9nN65LrOZPdZg=
+			</data>
+			<key>hash2</key>
+			<data>
+			FKaOezVK/1bUrHSOUZn/vNBrKmKGGI/EhsqVCuBAyks=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Short Delay.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/WX+twee4Ml6gGmM6ES0Qy3w53E=
+			</data>
+			<key>hash2</key>
+			<data>
+			hMWqNn0L6VUliCW34V1aSWWCk9AgTFn+YuaafOqWhDU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Twelve Strings.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nCgKLEn1zUIHx3kp63JzTnkTc/M=
+			</data>
+			<key>hash2</key>
+			<data>
+			KsUrA7rxygr6RZuihQtnw8YgK1bxVsetUh++opb9+/Y=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Vibe.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zc95eOJRVPRnUekKIB4DKzRNOp0=
+			</data>
+			<key>hash2</key>
+			<data>
+			vtWblwdpH7FJRf68qA4jCFq3uAc5L8MIdluXuGUh7C0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Vibrato.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FHy0BY648N8DfaJfq1TT12+qthE=
+			</data>
+			<key>hash2</key>
+			<data>
+			fJQHwiVqULnVpDIkvEJt9ufPE/GWUIu6xsxlE9V9jf4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Mono/Wet Vibe.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+p6B7+xNKijwrbVLvYZ7WsUXbyM=
+			</data>
+			<key>hash2</key>
+			<data>
+			0y3Y9/qkKoZ6mDNciq5cg8U+lIp6Ts+mnwNyE8mubJs=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Normalized.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			alowfY/eEBi+o2roqRr5TdCuD0g=
+			</data>
+			<key>hash2</key>
+			<data>
+			NHf/cev9wppLpqmN2fbvdJSlNDA1kHvaiSwurbxplIg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Oscillator.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J23NrmRwM8FtlJldPvoYRHlkEls=
+			</data>
+			<key>hash2</key>
+			<data>
+			f1NJmkU8qTBe+6vPFZaBs+JxC9SCjBb0gAvcT6kba9Q=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Reset (No Effect).preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/WiqapIv+/T9plala2SCu+qPSek=
+			</data>
+			<key>hash2</key>
+			<data>
+			HmHxOUwYm1oPpWQQ+yuhkFXnP/aX7Sy/cWvUGNBl7XQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Short Delay.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TUFgw9+RNmT9dw4XJ0XqAfhkC7A=
+			</data>
+			<key>hash2</key>
+			<data>
+			8Eiw8bbcJilnJlQEFCRVlm7230HKYYmVp+rmHywpW7w=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Twelve Strings.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p+klee8Wa/G4DITQ0um5SiVEIas=
+			</data>
+			<key>hash2</key>
+			<data>
+			C02wFTPZRQ57fuXANK9R+HiOr7cM7g7ZiX31UxE0XcA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Vibe.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pxSFn8bzCru1KcYHuB/hGK8UShQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			dIS4X376nHpITdic077DSqkS9n0kIWvQhYneOUwvOBo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Vibrato.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4RW+T9dFxA3I+RvKdt7yd6ueeVY=
+			</data>
+			<key>hash2</key>
+			<data>
+			uLaYM3YszsQ/GHdqztQ6h0w8MgrfA9zJEzpD8G3u65k=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Presets/Wet Vibe.preset</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xQGj+mS6lIVMVB7eltUCwcNnItM=
+			</data>
+			<key>hash2</key>
+			<data>
+			RM3LEnXb3xWj5xGH9f5XjNGWh+57v1uNOk1RvZh5BL4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/buttons.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t/wY8AyZoo4v36oRyY6EjfweYC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			GlWf3XAz+1HpqCFQSXjZ3sXHuYrNpSDv/BZWnPpEaCM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b1fbzue9t0AF/nXEUtqNuKfVFcQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			QevepSEzeGpGnQeCxLdX3kDzoKZnuEJDo19tBIurGzo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box_focus.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5LoTm7EMTPvWjDEnkYGtdEqAsr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			NWd2izUGUv6i8B7sPFi5uG6PRV4wUprBNNDBOJTAhls=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box_hover.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5LoTm7EMTPvWjDEnkYGtdEqAsr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			NWd2izUGUv6i8B7sPFi5uG6PRV4wUprBNNDBOJTAhls=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/check_box_pushed.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5LoTm7EMTPvWjDEnkYGtdEqAsr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			NWd2izUGUv6i8B7sPFi5uG6PRV4wUprBNNDBOJTAhls=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown80.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TmN4+epjKQo2E9mbU7t2EbIW+KY=
+			</data>
+			<key>hash2</key>
+			<data>
+			W4Q5v1FFZPqT9v0t2K2EycjzE60lN7dUQtpUNVuofwI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown80_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L+S+hgnOOGak5H3FPhNkCgFg+Go=
+			</data>
+			<key>hash2</key>
+			<data>
+			fYKDToCRE3QITsXBGSxfKJvRladyaXvMcEWZmhGFv0Y=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown90.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Maijv7U/loAExmLrJhJmws62wW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			T742XFWbkRV5lFZLaUMh/t4Tk2v+DaRn9a2DQ0lQcYA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown90_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x0T4VHCis3FLbKIRoKOR3eJtdyU=
+			</data>
+			<key>hash2</key>
+			<data>
+			On5uiqYc85jX81vEA73GyC9O0+bvZps93AwUJnfq+5A=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/dropdown90_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cm6+vaU53jgFCLm2xf+yoZJzD00=
+			</data>
+			<key>hash2</key>
+			<data>
+			rV4j3RUGL+oFpzdjZb7izr5qS0zsrhzM8KdlXs5NRrE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/edit_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XpK5Exphgin32RI8+YZ3uJ0XyBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			qQRlkZCUobrqD+4wEoAb6qTvDi5irdzWWS7VITwYYRk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/edit_button_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gcYs17mGhFdQ4Pm6Uwrie0FuH4k=
+			</data>
+			<key>hash2</key>
+			<data>
+			FAPnuhtKMElvSE92u8i+1dsXfRtkLk0Uy8ilwQ0Q3mo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/edit_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rMAJ9NjJE5Pxcf9/6nSa0txbgrI=
+			</data>
+			<key>hash2</key>
+			<data>
+			E7oUIGxKUHYd6SpzGpczaTN250ZH635NjntMJ9SwQ94=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/on_off_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VVSLqTFcwACsbxVT2DeR+cAKOmc=
+			</data>
+			<key>hash2</key>
+			<data>
+			nE/VcFTi1ZYQEnHFFKV5thYqO+AvHQK4pwM9/Xur/K4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/on_off_button_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ps+AzUeBi8hh2xHSx7J+GgewSSw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ph4LePC6AHuh6fuUS8dLtdI/a9DJY3lszSt/OPqJLo0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/on_off_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TL/lYWFpnF3RNPKT//gnJYfxbkc=
+			</data>
+			<key>hash2</key>
+			<data>
+			OTXMtwkTc2XIIBn1WnVSCtfLtGzu6ff3AGqTchKjJso=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/refresh_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gn6yURE8R21I7SFnO3fmfKdGCcA=
+			</data>
+			<key>hash2</key>
+			<data>
+			7LTFX9H2iS1TG18lT3AvbBjdzyq+ElJ+L0sAvqoAelY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/refresh_button_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ysKoNYOLAfmAaTcSc/YFD+lVWcM=
+			</data>
+			<key>hash2</key>
+			<data>
+			BI6lOGFK5nNRF5nCBEIu5rwp6lpN52Ain3opJUxFPJI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/refresh_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pPeTgg+uG/6wd2xB5S5oq70ys8E=
+			</data>
+			<key>hash2</key>
+			<data>
+			RIN8QiS1Zs5hxCs0+5g+f6mly37eksb9mnTGIGotJHw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_controls_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a80YbsWbPYK/gBjegkEFtXdKwwo=
+			</data>
+			<key>hash2</key>
+			<data>
+			oUMPc7EI2PNQSoUzeHPnrUvZ8rmdnAOsuPOmFP7ik60=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_controls_button_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FK6Y7vaF1olD79cxbiGgcpkIJaU=
+			</data>
+			<key>hash2</key>
+			<data>
+			QWdT6lmHnGNBrDcsJPx+ZVKL7StMNy4r97MWgkQ+Dxg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_controls_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7LPDFZvfQrKfyD2RRlW3oKPOwzo=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZHZbIj+Li74DIxU4tNWb3O3R6AznED2UCaYD0lix2Fo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_graph_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DPCXwBabQG98hY9tkqsqMmz0eDE=
+			</data>
+			<key>hash2</key>
+			<data>
+			mttiAk/Bm8esx7hScEslBdwX94X2DaDDop38nvfzQFk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_graph_button_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tnuo0OP/zRMmLUBsAntUKdYl5GQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			r3WsSAVr9+vuNS/8OdUef/XSs5etuZvDRN7WwsP5BF8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/show_graph_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HRUl5sV5mXMh4cF6bsS4wXf1IYk=
+			</data>
+			<key>hash2</key>
+			<data>
+			B2RozG1oUiz5OBV7Tzb/N/bRzzLiOX6QMzm/w7hBMJY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/status_rect_button80.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+jATDrd50v6cAYuIgaPj+bfl4lQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			h2+EoBZn6cGFF3CL6/Hv2o1Z/ryA6DFcp1RX57vVT8w=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/status_rect_button80_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6fu8zgVLe+Zt9IiqBtayw+la2rc=
+			</data>
+			<key>hash2</key>
+			<data>
+			tOE0gqPWjF2TNvIhmCuaQ8fQBiz/KRVuRXSj2DMojhE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/buttons/status_rect_button80_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RMgMSZHkKt85O5X4vfz+YfNk/qo=
+			</data>
+			<key>hash2</key>
+			<data>
+			v3MqlZzlahBp/ZZwxBzQDLafGt7OLsQ2XK4Uxq54SRs=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/background.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i3+FJiDPgV4UGNrKrxk/YzdnJH4=
+			</data>
+			<key>hash2</key>
+			<data>
+			wUdEdk32+NqZH6mpxXiSTUS2QhERMnSgvkZzL1slBBY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Vqf7iGf7srWUuVfHZX14Q5LecMs=
+			</data>
+			<key>hash2</key>
+			<data>
+			74rE9STZLb6PH3knRr5tm5IuvRl4d0W/697Cd8a4pE4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FIL6cKQREDmsE+1jM1xODVt9gi0=
+			</data>
+			<key>hash2</key>
+			<data>
+			y1BqBaaYxxhsfZ1pfFL8KffHyDUoq1zbSkMMViko+nU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RDpTfMqmS5kpy6CLrmer/QK6GeA=
+			</data>
+			<key>hash2</key>
+			<data>
+			i9fYCHAByvxxZtKgkfBrB5qA8JPOEFIiEQrf+Zv1x3c=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_center.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aOvGFUvhqtpoKVIFKAJGL0h9cHk=
+			</data>
+			<key>hash2</key>
+			<data>
+			H9KiUP/PTrUXvKnapt0FuPHvL4OfXCj5OiIaxT/qJGI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lrb23grSAdZmKF4z652NUpbg/P0=
+			</data>
+			<key>hash2</key>
+			<data>
+			o5eR8Iff2XNbdAA1mk17MOhEUPneWKjeHdyz10C0A70=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3iYg3h00nkh7ow6mFhH3hOilUrw=
+			</data>
+			<key>hash2</key>
+			<data>
+			FlIa2IWTGYmY1P0cRJbjfr1hURd+Y7ZCN/GwR5S+C44=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YOUydc6YxmQt9EkDWyMsECG4OJM=
+			</data>
+			<key>hash2</key>
+			<data>
+			iY1a7hqwB412i0xkFUvc+owtIb8KgwQ77zZAxJRzw/k=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jha4/kSC+JV3uhc7uYdtI6FWBBc=
+			</data>
+			<key>hash2</key>
+			<data>
+			IoeO/3AxVZYdoH3qLqnaH8xLHW3wPdbAimdvmPm1daw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/bg_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v1bynu0WEXmuGlwBy14qoT3kVGA=
+			</data>
+			<key>hash2</key>
+			<data>
+			L/m1mHN4je5yScgsYDXaCP9i0g8tsG5Byn5+kmTs9vo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/decorations.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V2hf7leILd7fOIqARVD2q5BWB6g=
+			</data>
+			<key>hash2</key>
+			<data>
+			X5VIUy4FAQvHg72WDJMOKys/xoW8zszbiLfQk7rHT8I=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_left_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ONDX7B7RVnW0Lo4R6tWkU+/8W9s=
+			</data>
+			<key>hash2</key>
+			<data>
+			V0fkov4csuOR5RQrTbedPnM3mv4ZWhIQf+ScHh+Dfkw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_left_center.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J0F0uuhyVizfDYL9D7Vn47BoS9A=
+			</data>
+			<key>hash2</key>
+			<data>
+			AlBcnpo18E4PWR9LMQNj3qn6HKrADlwOCSV3ZwjHkQU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_left_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vW2UTPgKj2cJnk9ihSSWGLl03Jk=
+			</data>
+			<key>hash2</key>
+			<data>
+			heQJ5shkXSgT7qdXou7I/WF726W7GwclhROrk8z1Yoc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_right_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RfctyAzZy5Zj2zTjoVHc0FDlKQs=
+			</data>
+			<key>hash2</key>
+			<data>
+			8HZfM5bxweAF3DMIiiH1VYjbmlqamG+a+a1+4EJoMtI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_right_center.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5E7xbm9XPtjODmhsdY0+xkPQtXA=
+			</data>
+			<key>hash2</key>
+			<data>
+			eJRmipfrA938pZzSLLqntUpw6GwMWqk0ii6ozpimU7U=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/handle_right_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UrVqyfhK1OUcNTTwtIxdWaolWmk=
+			</data>
+			<key>hash2</key>
+			<data>
+			LXmkktfqcfQIwf+9U/sOZcf8VyjOHACm2x4k7Hs3+lM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0KJ3/mmDtKlOZ5Ax8DQPDMB6OhU=
+			</data>
+			<key>hash2</key>
+			<data>
+			t7TfPVvJz0y239zZFzy32FmPV7pHb6zR4+JnOtNvCGY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bxSjk3jBLI1mydUaCA9o1VKIfGw=
+			</data>
+			<key>hash2</key>
+			<data>
+			dbwa2GtGN09hJp4wIWr83t00/jx3IZwiozcdNB0mEPk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			huaicWKCHWMF4auHcxazQCWI1QQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			KWuQcCJXTajlNrJM14fGB66rS9EPdnwXAypO+zjUF3k=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_center.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GM213uLGEHnEOYRfmVZTStDYhSA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZI6xPhRhSl8OIxGHEhc5wJ3PpuLfheJ6/GBL75jhJ4g=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MqN7obCohDntXNoAXaFRoxJBH/I=
+			</data>
+			<key>hash2</key>
+			<data>
+			bsCXxCYc1vzxein7iVqxnGO0eAybABLPuALK5fx4lnk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/5JvI2GOFLf6K7wCxq0FkNM+trU=
+			</data>
+			<key>hash2</key>
+			<data>
+			M2dhTYR+jWlg0HQ8UpTFlkn3Ebgxt5p+fM4V1vTa3lU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			22SHprx1mpRb+WAgFbGmOm2WYUc=
+			</data>
+			<key>hash2</key>
+			<data>
+			bsrvLe7Psd1MkXe//0th4G/6xyMYipd5lxWD1mmoJGc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lc8dxuWLfyNGXLOd69ZaEtMSH1k=
+			</data>
+			<key>hash2</key>
+			<data>
+			AVNQSBg+IElRAQlAa8XVqlS9BK86d/h6I42o9Dhg33U=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/old-blue/bg_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8V3i+PEYEwaIJDekByV/x10JIXY=
+			</data>
+			<key>hash2</key>
+			<data>
+			VEAi4yI47TWA1E2i9DyzE071wI/kdbgLH5etbIRpRus=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/screw_small.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L4Ek4GHVVviJxY8PuMkVIQq+g4k=
+			</data>
+			<key>hash2</key>
+			<data>
+			OOvc73ImyojRh1Z3fnUID0gMBhYFAuuYcj2SMKmRRWw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/status_bar_center.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LAgjGz1SBAt1QeFxnJ16KVvP9zw=
+			</data>
+			<key>hash2</key>
+			<data>
+			p7lJcRL+0ckoKlgbzCt6VApVJ9Vcd49Tu3SJWu/2JRE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/status_bar_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t7dFGA3Ydf15kxUj/9z6YarL8YA=
+			</data>
+			<key>hash2</key>
+			<data>
+			TZNwdmKb8QvG3D0KjcEEH/OxXM+fimnV/e+K3DbFHqk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/decorations/status_bar_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D4CXF+CkXhtPU1u4wOX/U4qML7Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			kX2Fnm3wkcxMTVapOrjw7b6a1vCMwnX81LkilHTh+Yw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9l/pvjd0SrSd8QJWYIgeBDumM8A=
+			</data>
+			<key>hash2</key>
+			<data>
+			4KJIgM86yFBvHpXbYS0TMYILt4yhJ3aDnnTFfO1fywM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jrq9E8MO6mjYS12UuBsqocxbDtg=
+			</data>
+			<key>hash2</key>
+			<data>
+			8XAm5ybgnGG0xjGexPlUXGjjl0fJlED4K6v8qpnDq1s=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_left.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s4dcA7kUSApWvEilwKhLyuvh0Nc=
+			</data>
+			<key>hash2</key>
+			<data>
+			rp3t9HvEIj4kXHyfVGNNAafxus5vMnRzy2BslwMcmtI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_left_mask.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QnlnpndcJfaQVY76WpMd1Sj/J7I=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZafsItrF1zPIdUzXB3g/NZFpYV9hjfe4JRtcWbxJhDk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_right.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4qoDTeQSEygwq+8nzQ95h4klB2c=
+			</data>
+			<key>hash2</key>
+			<data>
+			KqpK7x3NnxaCWeu1m77afpUOQS3lin8R+pv9reU/NWI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_bottom_right_mask.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eFHMBYDzS3M2n4VD9EOZ5N6gO1A=
+			</data>
+			<key>hash2</key>
+			<data>
+			ff9uTvMXfTkQCNdg6wBfXH4pxPXISbEldSJx9ML8BO8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_left.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HnwnHtar+e36NGlM+cVOdcg2OMY=
+			</data>
+			<key>hash2</key>
+			<data>
+			TZ0ecztJDsgMjH17Q1MxL1j2H1GMuOVT5TC/Mz/a9fc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_right.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fH/ZNCKB0vDNxl/kYp+N6ViLR2M=
+			</data>
+			<key>hash2</key>
+			<data>
+			qeh/z8A9O9rgdtjx1NQTIzsmtKiq12+QIeOyQdpqYy0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mga9HWUqI5kHCxEZLzi9QkUeE6A=
+			</data>
+			<key>hash2</key>
+			<data>
+			upAB95nJL8wSBiSevxIq6lBIU3GWmOcU6sax7crvsps=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_left.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jHJ8Ujs2CKRyitenlHwKSY02Bqs=
+			</data>
+			<key>hash2</key>
+			<data>
+			SiT0UVoMZf2f8Vb/XCXGmr/jcxDIcQv3P4n8zjwvvmo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_left_mask.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zmYVfHRSDEzDissojxiarHpz99I=
+			</data>
+			<key>hash2</key>
+			<data>
+			uDDau2+v4r9U19BlatcURBv1XUAszW8DNZoMT1qR86o=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_right.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ugpKpY2uO2kffGJuyjPsrq9Fpp4=
+			</data>
+			<key>hash2</key>
+			<data>
+			XlYgl7qoySNY0nis+N4dyBbvPI1jZqEAys1XrmHN8co=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/graph_box_top_right_mask.bmp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o/SMEqLDNvIqja2EVHrC5RkoHGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			jmlEqqZNLIxOSTtYd4VSwgf8dcX3YX1JnuLsDEpTHmo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v1Vz4j6m9VigWsL/ClrNvR9tADk=
+			</data>
+			<key>hash2</key>
+			<data>
+			eOK2i24XWJgsXtl1IgCgxJxJswtw7vLc1oID4aFFBQs=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T94b6TR6PpqGeBlCI3X3VZ8aAhw=
+			</data>
+			<key>hash2</key>
+			<data>
+			OU3MD9OMkaCEgEQxMuTWkkWEUf8EU6xRiA8wMsXL8Og=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zxW1H61C1AiIrLqCi6DYU3OzNEc=
+			</data>
+			<key>hash2</key>
+			<data>
+			kKrhZ17zgKpLxwJHdbHaskzc2DTxMd1Hf1yNNTi6boo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zBODJ0sK3qsNpKJWw5ph77bVPMY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ehr51TvMRbH4C+rApyX60ibsxrIgvyLUvTSKAyLcflo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			28Bq+2H05cqgCEgccmwcKg3XueY=
+			</data>
+			<key>hash2</key>
+			<data>
+			sybw/OIvN4hx7nosvbSyJ3MgLfBHc/AjxDp0DJ8Fa0s=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gGpJtUAFkKd0xlpongM05tu7EXY=
+			</data>
+			<key>hash2</key>
+			<data>
+			vrPRfRKvdeiZawxrTqZPNrfoCfqUEYy/iglu51KSTD0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VJtYol6KsUlwYsMPI8Gr9r2QU7c=
+			</data>
+			<key>hash2</key>
+			<data>
+			aPpC8LoLmPlBKJ9gMVbZykAChyQj8II6e8ozI+bJ1YU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/group_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oFTXdQ8fi+LimHPbMPk9i17uICY=
+			</data>
+			<key>hash2</key>
+			<data>
+			8LZLWSrSnKY+N7zK3uW51un7efIFIAfSCYDzVb8hm5s=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7FWOSGjxgAJGCrxCirlilUsTL80=
+			</data>
+			<key>hash2</key>
+			<data>
+			0w4gTDHDo22jyoxbODXuyP0OxWBryzTyT3S/eIIyFyo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iZVzWTzzhr/YpDtlSRxrEZxMMqI=
+			</data>
+			<key>hash2</key>
+			<data>
+			6v8ASf+730guq72YpUcce7rh6fDjjyb53MWRJd4PaoE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t725g1xPv5E535BAVeQNM0GFQAM=
+			</data>
+			<key>hash2</key>
+			<data>
+			cqtHy/jaCBMKI5ERuts5snWUsuNj5vV4ddZcDENTBAk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7XX/anK3f4nEJukhUWdfAphalw8=
+			</data>
+			<key>hash2</key>
+			<data>
+			IoewuEz/AdN5cRPLD7vDBCijpmziZAwr2zbPZdBn8zI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pKGu7D8uXButDqf4+StkI8tFZGY=
+			</data>
+			<key>hash2</key>
+			<data>
+			i8e/mr9blxjbsyPS+BJlnJRX0daAoJJj7RegFKodvEQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			COKkDKjlxHi0Xh7X/r4UmGGWBZs=
+			</data>
+			<key>hash2</key>
+			<data>
+			G/wMYzQITWKA8G1FFGNzJ4azW0suDHAjREvqtrWTxKc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y18Yf6aBawm5qqJGak6YYJincc4=
+			</data>
+			<key>hash2</key>
+			<data>
+			/s4j8pZCop72LpHCd8RVHjswap/be8SnG72/zJAINas=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GQjMlfgbH0NwMYIVmpgj+3BAFH0=
+			</data>
+			<key>hash2</key>
+			<data>
+			BHDBO9Sto3KBccSfAJW+iz1ubhVF+NxQOBfRXKfllBc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-blue_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			poPgjyOo4fDdZJ1vtwOKcxrrHQs=
+			</data>
+			<key>hash2</key>
+			<data>
+			t+g5yCcQVV4R5bYcv/8mIIsaGf3yraZEKuPqJ81IWZk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L0GsFavBSKdcCkQx0HmJVuDIEbc=
+			</data>
+			<key>hash2</key>
+			<data>
+			E/DM0WkRzQ1e3sHw9isho4QTTduYPTw+PvDC45XDViA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OVdhc4SqR54zkP8IW2ryAyE44uY=
+			</data>
+			<key>hash2</key>
+			<data>
+			MsJSQzRAeukUJsD1WZnNDAXVeYTdTZCoqV+fdHofnwM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WZc1gKTe9Q0RbyPD6ijdNMleawU=
+			</data>
+			<key>hash2</key>
+			<data>
+			EbjtDbRq7j2faNgXyxIhE5lx77VylOpc3+zXNFqWN2o=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_center.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oJ2HAChMm7I9kEG5PLUhDjGs6aw=
+			</data>
+			<key>hash2</key>
+			<data>
+			CQaDu7lCsJ7GqCcf2JEXlcNQLKfvZzX5/PkiWXK6cug=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_h_separator.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E3pmOBSWmjZQ5E4/pCODZAjS/6I=
+			</data>
+			<key>hash2</key>
+			<data>
+			C6HdHi+uUs2vaQnUo0/YuiTbKk8MfRnlAcVuQCyFFqI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RFQSkP+XIaH49KI612p5jHBf6fI=
+			</data>
+			<key>hash2</key>
+			<data>
+			WJt1L9InxeUwyFMk4aknBEsbNqxCYZKwhQfHtUC0q5w=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b563OtdYWuddjNbcH1YnUc6bKdc=
+			</data>
+			<key>hash2</key>
+			<data>
+			PPR0VDFz6BaIdlsEB4PVIwfB9aIDyWsmgFuRKsRFrkI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AmNj4R5Uhbp4w1RHmgvIgd+CFHw=
+			</data>
+			<key>hash2</key>
+			<data>
+			1y8iNmL407Ituiv1bfAeCbj98Mw5K6YqHuXJPoHt3Vw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rq3IEb5nkOvyhfDhNeQ12bHIplE=
+			</data>
+			<key>hash2</key>
+			<data>
+			WthWKhz90maqRoNCqix9Mu25AAB6J31Gry3Kg9jJay0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad-bluelight_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xJxwQgzfH5SE7313UTS4bw4mdFM=
+			</data>
+			<key>hash2</key>
+			<data>
+			aO0hcUnaz6FeCX/4oU0iMiOQnUdT8tHa+nXu6g51mng=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0QsFaJpp3BdDrjn6HqWggYfN5/g=
+			</data>
+			<key>hash2</key>
+			<data>
+			E/ZjKSYBevFaUHcGKkOWgLZV/YiuKN9H7/Tg2AgF7TM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MNR/eyWR5wgvOdOeKeEt/jQvPA4=
+			</data>
+			<key>hash2</key>
+			<data>
+			M60oyG/XTHh3aKEJRzm2bdl5ftliPnfjMf5FcB7xcPE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l89df9q7ui7SONcBhp+tmwIw+h0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ra/P1s/M9blRUo3wbsSZn7DLskt+xLeH4Coz1UpSsYo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ydzZqkXkkPgm92RsukQ9du+EAcc=
+			</data>
+			<key>hash2</key>
+			<data>
+			ujlqgsgELd4szTGr/syVD+4SQbZCNKs4y0lozMhCnOo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DxtcqP5Jje4/MtSC/CH9m37qi7Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			pdo9X6IIQLGspmdMPFwmGFaRlww442+MqwLfM6nM1Kg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YK1jkmBsze6HMoHach7BN3aOGy4=
+			</data>
+			<key>hash2</key>
+			<data>
+			bCZUBOboY6o6jcIFRUXSLgxOYrFbI4MIV8fyJItxPCM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1f4+GSY7CCovL//AiCPAMB5HRPs=
+			</data>
+			<key>hash2</key>
+			<data>
+			bUptSWVq1u7RQZ+JEgDreKsjvkd49lQelQZoat4HQiw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GQsEGNxxxjwrqI9MBOrVv3lVRFM=
+			</data>
+			<key>hash2</key>
+			<data>
+			PqTB0RwcWDDU88h0lZ+djON1b09Eaf47cr2SA142vG4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/group_boxes/pad_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EA4iJgWdfaqMyyG4UekFbmKnqsM=
+			</data>
+			<key>hash2</key>
+			<data>
+			S5Lv04/k7R2sAC466ROK6gTPSoc5LiHcvwv3PmjxoMg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/includes.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6C7lSrSRVMclRNnPaQCUWdLXjFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			tofW9/BfIYmiZbs1GxJns/OlEctqzaFLTN9Z8G12IPU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/dark_knob.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/GqeZzBsBqeE+O5WIY2JNVTwK/c=
+			</data>
+			<key>hash2</key>
+			<data>
+			BcGePGTc3odYlgT2w9u08mh+Fmo37NXEX4331wHuiU0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/dark_knob_sym.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vqdqNhlgB/toMAg9SwOrMgRkoQo=
+			</data>
+			<key>hash2</key>
+			<data>
+			QVSwhcQsY//tpF/frxfqIl9kHPoZJX/FxUHRmZzQo6U=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/knobs.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8bfpVy0Zf7V0Tqlq/7ngS5hQWLQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			rr4NWJYQyptOtoN5j8pMXs950CEg/A2GxpDDg3vFgJI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/knobs/opacity_knob.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OZH2JIVXUkHOVpocWteE84QkZ4Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			b9CVFzEincnzlYF+ELIgrE2iIbMrUDKKwoeGBauiEbU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/round_meter/round_meter.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yOupnyRZKVpCo0kc+dp9ZwQEkBM=
+			</data>
+			<key>hash2</key>
+			<data>
+			QLbrhVzTXzN9P5jF875yyQ43JRdLQan7POsoZCKodZc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/round_meter/round_meter.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4g/+RqbseF1adhil4upbHYWH6Es=
+			</data>
+			<key>hash2</key>
+			<data>
+			QqdwN4yGxjYosAF+HJNgctPCHjS5fYXTsAZ4asvGqb4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_buttons.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N4p0R26w6k++kSwl4+XW38aVQ6w=
+			</data>
+			<key>hash2</key>
+			<data>
+			pD6gPx6g/zVz5TQv7zX4t3kDQknDoWkODJJ3VKLv3D8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_mini.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CDq8NQ8qvnz8qAduI3IzzkWHsDE=
+			</data>
+			<key>hash2</key>
+			<data>
+			vZSMvQDJXrYk44B7yf+p8K0H0Q4dfa5G0mifg7mFHIY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_mini_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9p80EquMoya47y6vrD9T/7RJKeQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			U/ufO/DBSVkWBAv7BpOIv/YTL7tS5avuB3jLW08PGiI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_rect_small.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JaPhINDmUKvcvD+WWhHVx2Thjbw=
+			</data>
+			<key>hash2</key>
+			<data>
+			650aWPA62tL5Z4sTIyZXreaOJOdDvBazh5OqKmizi94=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_rect_small_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jujBG81cX/r2Y4l2qPiIH/coH8o=
+			</data>
+			<key>hash2</key>
+			<data>
+			3f58a6PGUBrl1exGv6zag/JMHwHrHamfIB8o8fq1tME=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tnm2ekVfci2e6ZtQG33WIQFC7H8=
+			</data>
+			<key>hash2</key>
+			<data>
+			kk8D0/cA+x6ThOQURUc7pF5R8CwNDxn82wW4j5fNItc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yTn1GyC2+J4FRmXa3Y6CATm7230=
+			</data>
+			<key>hash2</key>
+			<data>
+			zt2cpy1AJidVLVrfBZgAc2cZCXMn8TB0mqjXpSqE11k=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round_small.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uP3D8fH08edjzX6TLAYCWNgJqg8=
+			</data>
+			<key>hash2</key>
+			<data>
+			pjofjZ2Y36DNkbkmTQQSGN5+ExNw3iUSRaq6sCl/GzY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_round_small_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ysC8ZJO+n127GVX5NZvsVG6p+E0=
+			</data>
+			<key>hash2</key>
+			<data>
+			GcdGXMXnw6owfwMGFR2dI86aADZVbcEiko0aUPnRLzI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_square.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JXgbFFB7RBfv8TvfNodtyQyvZdk=
+			</data>
+			<key>hash2</key>
+			<data>
+			pcZseb+INTXQNkSBCFKQjahCDTVAo0HKtv0NKE+FHek=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/settings_buttons/settings_square_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UgnjJR9u6ettHGOcbXXx1qcWN/E=
+			</data>
+			<key>hash2</key>
+			<data>
+			l/ECt+FEZNNF9H6LyOY7ba+cN7MBRflDqCgTIxQNCPo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/h_select_switch.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8YnVoA5mc/UNJWZ/wky1/ZBvpz8=
+			</data>
+			<key>hash2</key>
+			<data>
+			nPYkUzP9AEOOnRFVnlCcV0SHz419oP1YxTzuXHvREHA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/h_select_switch_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UBuNtwReC2oh1VVA4PNqT0jqfg8=
+			</data>
+			<key>hash2</key>
+			<data>
+			p7Z+mKqKc1nJw99ZVq8qQXKu8kCegMwqEHDcRjDGrKI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/switch_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/bziQrjePC12KAnP7TkPDGqDGTc=
+			</data>
+			<key>hash2</key>
+			<data>
+			0iXYIrQSB9JaCog3pwG/QPZXNksrrjikEY0WK6ksmBk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/switch_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jYK0iEP7aEle8UeKUWmfxW8a+f4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZQRLkEAiF1GsJIQNIWYQ5ZIGHLeTK1RsBUstSwydDW4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/switches.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			24VBwD5zvGyeBk0uO7YNl59WZyQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			L+4UmuuB8X8ZCCL+C56nBmpN/Yho8m/yTwLTdlYlwBQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/v_select_switch.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qFys2Z9cOkB7s4UaPuUqb9CHdlk=
+			</data>
+			<key>hash2</key>
+			<data>
+			o5tkeclhEi7HySV8NVoyfXVWeYcmnPzIywlu0lQOnis=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/switches/v_select_switch_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			74pC5F4tbzDnyiAHW1aCB7WzSNA=
+			</data>
+			<key>hash2</key>
+			<data>
+			sqnhyybdwKh93r0C4KgXhp2mdFppgisqOKFN9/OQDX0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/theme.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w6P1RuzeCjHGKy6nLXa0WFQIIps=
+			</data>
+			<key>hash2</key>
+			<data>
+			FTwqx7DYaWaBnLTWcAK6ix1VhjB3LW0B3EYVhUQJZfU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/about.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RYZkxnmZ+almPyLBisNJg6XL584=
+			</data>
+			<key>hash2</key>
+			<data>
+			+IZ5gTM50ciFBWc0bCnPol9zzH9MKkxMJUrNLaN6N/I=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/about_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wd5+G8xtF3sAoXwVfOCmlaAZWAg=
+			</data>
+			<key>hash2</key>
+			<data>
+			sJ6TP3EKUPFk1uw81nR1XlPCOi9w5XKnLHRh6CJ020I=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/about_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W/SvDoYk+IvPig7x+UDP8Q18VRo=
+			</data>
+			<key>hash2</key>
+			<data>
+			O1SGtItAVv8DiXO5VaO9ZAPp8O7H1OTB4dSxSXtv3ZY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/arrow_left.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ba6+f/SGEWTaK3zqF9uXhxWO2D4=
+			</data>
+			<key>hash2</key>
+			<data>
+			1rMuJnaO+mTNVt2j6Xe7HTy3CChC0bPy8nnLdkuwQdE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/arrow_right.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3k4GQQj37RVJnRSdqDSeKjp8C50=
+			</data>
+			<key>hash2</key>
+			<data>
+			K1jMRSS7gc+fSj9e0e5xXaj5A/QRjbA/A7Ht9xJx14c=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/gears_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yeQBEe38XUgBwvlvG2pk5g+V7jg=
+			</data>
+			<key>hash2</key>
+			<data>
+			B1lvskDxKJZ9OrA2iPYjYZK/DiatmEvOeVwjjtgB5lU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/gears_button_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZiImmOKNaEkgaQKxhU9/DtQcYoI=
+			</data>
+			<key>hash2</key>
+			<data>
+			wjdvNGm62G1SXUTNFih0+lyIPbgn1uud+YcIdZBrHMQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/gears_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iOdnBSUhHjNCSoLqNP+3S1vaN/8=
+			</data>
+			<key>hash2</key>
+			<data>
+			7qXFXSHW1rE59dpY5XanFQgCSLWLESd/eASy+X/scHk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/help.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ij/A/l+q5vjlbAJVnQKjpk+bN44=
+			</data>
+			<key>hash2</key>
+			<data>
+			kR9cNczrKirUYQEb3fXBnovqAF9p4u3s4BC0jd5f/FI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/help_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Sup7cY+b2y4Ql91WJCse5Kx2KKU=
+			</data>
+			<key>hash2</key>
+			<data>
+			F09e91APGATZvInT7mjHISvuE6T0lDgBhztWLC/j9fI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/help_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vUsKB/tpIOnG7sb4ZKc/Xycw9eM=
+			</data>
+			<key>hash2</key>
+			<data>
+			5o1ax6JwC20reG8owRdTNtiQfzlBAANqmbtzxHVPPWA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9lRZ2XjC+us5/QJKetx1LMUbVpo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hu7FjtKcZdB4M2OKVNcpQwr/Ta7tmRhv26bimH49X1g=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			levBucHUkivruFEFQNikFU3CSPg=
+			</data>
+			<key>hash2</key>
+			<data>
+			0+Kl+Dgm/Ph0cplKAcBw0lR6cDu1dct5WcDq8r2wBo0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			um0/5TneZQ383daWD7LUSlT6BuM=
+			</data>
+			<key>hash2</key>
+			<data>
+			tcTQhU1WgbShNkuC3Pt3bY99s/2I2cC3D6NvqQwBx9E=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_center.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9jry/1nTHOY5Id47q6FKEYg69J4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ihyqS3yx8mLTb8nfCg+iJ+/Og7PEUsn2p/N351sogLg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4B5roxGaqpXsJuBxfJgOuR2qO/4=
+			</data>
+			<key>hash2</key>
+			<data>
+			HLUXbWhP8k9TQJWL9u9xzxjRlypjJ/qJtK9fzS4rnLc=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zAeqtAtPaj1LrHj5yMZ0pc3TIEk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rh5esBEBdJDVXotI5OWNYsVC1d2fLVhA3WKunOg0Ins=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2YvmFrlWB4Alrnpq+It9dopNTlM=
+			</data>
+			<key>hash2</key>
+			<data>
+			2Gi7Y+h9aFG/U9J7x1p5Y0wRxljHjeOhoQonXekTjPA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sskr/ja0k70sGRayUynbrlb0ijY=
+			</data>
+			<key>hash2</key>
+			<data>
+			CGbtuDhF4k9qszZGeY+vr6FGfrCX0xRb5in0wMfg6eI=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/lcd_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wek4ggCwplaG9jvGTuGl+2C2tGY=
+			</data>
+			<key>hash2</key>
+			<data>
+			fIf1i492+xD58saQdfvFMq2xQiONkbfrlf/743abF1c=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/logo.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DJzTTdzlLOhRCXjZS0SispsjQ0s=
+			</data>
+			<key>hash2</key>
+			<data>
+			CMCDZ1/MmIARpZZjJ6FF0GfYVbohSpmnMQPxEaJaPmY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/menu.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vHfyFsC0ZG4178sxdI2oeq13CxM=
+			</data>
+			<key>hash2</key>
+			<data>
+			vS/HBuWyP1fV3VBvVJFSE/QZ0LJ3PlpqGuYCvbY6Png=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/menu_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5sG4wCkI4ANZyINVCOLW8ojj8mY=
+			</data>
+			<key>hash2</key>
+			<data>
+			UrD5DPUO7lEY9/QLgMg0t6I9FQPdwbULZowJ2yeD5oA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/menu_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XSa017Do4mz+d46PVdlDENc7s/U=
+			</data>
+			<key>hash2</key>
+			<data>
+			Tt+thjkjW3Ombs+GtlGXE8uB3F+XAIOjxJvEc2hOf1Q=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/power_button.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vy8NglUEytTQ/6MZOYtbG4m63O4=
+			</data>
+			<key>hash2</key>
+			<data>
+			mZHNZkkBPVdgUpbNIIXsoGMaQf5NBwWYvnqevMUk/Pg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/power_button_hi.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xtYJYj45xwAZ2xfLWA8GDrzx99Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			nKlJK9jcWN37BVssnMGhziWqtdaNogMakeL4IIZq1og=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/power_button_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l5I7TAOoyBXn3hcYMFUcCIg14Bc=
+			</data>
+			<key>hash2</key>
+			<data>
+			iRgIBDUjDy6WAGm7MmrUKjLgD7ECG1ryn6YUD5pVPH8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DavEgQSnZHnO5+pio4KFnbaaHrk=
+			</data>
+			<key>hash2</key>
+			<data>
+			NjI4DN+xjvL1kkyefZXdbDGGOTFIhZbu6ch+DOrO4JU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo_disabled.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IVovNkA+xpFdif5teSW7KpWXqjE=
+			</data>
+			<key>hash2</key>
+			<data>
+			WVAUR+WZfrIdRrmre1ttDsdqmZ2SDFmxUU/ISwyg8VE=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x7ccIB6EpaQLoRQXCG1LQSnv0Kk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hqif4M8A6m6jEerevfhFPVJgTYt539oK/cjABk9Clx0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/redo_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5bMhgwX2D8NEgsmGq6Zf8ePMsRY=
+			</data>
+			<key>hash2</key>
+			<data>
+			V/ym1gs6FPz4iyPy1PVmgRdaXofBmrpHg3V/iOuUjRw=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TiziD83O7+4tDpJzDmvY0RPOHn0=
+			</data>
+			<key>hash2</key>
+			<data>
+			R6hocC+ZA3eD0JhZGmonxoaAvst6XAx3KjuNTweDjNk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_bg.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qnHtTTvclWR4/JiAvshSPfUKfLg=
+			</data>
+			<key>hash2</key>
+			<data>
+			U/63EY2symh6lNR1mTlf67YFlIVp3vL2VJZg/B1AHS0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_bg_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rWJ8h9QTxIrUWDSf5TIOsf1hzpg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xr61vqjC5DxrOol+3YM7dSxaFQ20OjX8ZFZQzuoCuLQ=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_bg_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nijLAF6nCXccslqn/b5fy46+YU8=
+			</data>
+			<key>hash2</key>
+			<data>
+			lAWPfGMKV/c5TZ1sLTO3aSsgq/jNOjhGhk/A0UDOBqo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_bottom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m6FO/YnvHCjlZbQGbCWv4lKylbs=
+			</data>
+			<key>hash2</key>
+			<data>
+			gbGwM68FJeRw3lKSC5WfM5zSVA3jPWbhDtDc38l2mYo=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_bottom_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Vgj69WMrktr176+dt95oBF5WZWM=
+			</data>
+			<key>hash2</key>
+			<data>
+			QUio6/QmuHhObu5yLtcv0Kag89Y8UIRO0iqh2ftaO9c=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_bottom_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NkNWqVo9xPi6fOCd/VzUkMy5gcM=
+			</data>
+			<key>hash2</key>
+			<data>
+			lJnfWdszbIWpduCo0RXR8CV7HodXvJzGHkYPQmvmbmM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_top.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c3NL5OrT1tL9PRQqk13JIlJA/X4=
+			</data>
+			<key>hash2</key>
+			<data>
+			hQb6uM2dsYdr8m4iLt38ALSY7/2FZrmUfY+aq1vGHyM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_top_left.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LgqkHheSw56tGVw5Xs4Ca+8slNA=
+			</data>
+			<key>hash2</key>
+			<data>
+			xNojdrymPVbIFvdgSf1RXD+/UYfU6ved/EA2DEprlkY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/toolbar_buttons_top_right.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jKzd5l83bFFKuzLJG3fNMVTA490=
+			</data>
+			<key>hash2</key>
+			<data>
+			VWyXJ8PkduUIg7TPK62Sv18skJDHG34qMx3bt8wsaCM=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VkvgJ9kgHfBCJeIdc1jk24D++Bc=
+			</data>
+			<key>hash2</key>
+			<data>
+			6VNZsqAE9bFRoLkm/O0+Bvak5CCOOueLxoNauk48lwg=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo_disabled.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hk+skMi6AOw0pHCqw+UJQ9K/6iE=
+			</data>
+			<key>hash2</key>
+			<data>
+			a5TwmEISwtYAWEs7FJPwwgT4ck+5vK/uDxKL7pOGw4s=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a1DmgJy5rClpAoWLDN6XvTS43+U=
+			</data>
+			<key>hash2</key>
+			<data>
+			3EdOK5w66C+QmKv4Yq6tFXspG7nY48+tWUhxfmniyv8=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/undo_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TOPMrGIBdmHxbapSp+VdFLHWbmg=
+			</data>
+			<key>hash2</key>
+			<data>
+			8e3G2supPGIy3YHdB5edYKpTqsrObH668s22HqiZJnU=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/zoom.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fCWuJ1R3PALfmTY96KeRYyLicFY=
+			</data>
+			<key>hash2</key>
+			<data>
+			PFU2j/CO9ZimAa7p7ZK4MyBaKIbbu/+NJ9i/rRjeNu4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/zoom_hover.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iEThRd4d5bHM/gjHoYnrPGyJcbU=
+			</data>
+			<key>hash2</key>
+			<data>
+			NX9TgUt9uBLdaG//CgNm2CR/aMdEYxfdL+NrqsBbPa4=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/toolbar/zoom_pushed.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k98E5PBPh8thqR9NRgXNKLogKjo=
+			</data>
+			<key>hash2</key>
+			<data>
+			5Gj+P/Xn/4VQeQthuuQnrMko08y++n6aFG8Lj00P4/w=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/DarkBlue-Theme/utils/tpl.image_opacity_box.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1h89oZXsNxdBY0vKB9xICBRY/cc=
+			</data>
+			<key>hash2</key>
+			<data>
+			lEjT6FAe9R5/QS6uaMv7swxLtVG34b9N7gLVNmpObss=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/alternate.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			05sgt9N79YtSM58KQALS3y4BXEc=
+			</data>
+			<key>hash2</key>
+			<data>
+			GAnyzbr2y/e1bpL5fw3QAhkgfHNq9MIezpHPrg7jnIk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/chorus.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6Y4c885C+XIsgp2X4tqYRMvnv98=
+			</data>
+			<key>hash2</key>
+			<data>
+			gpsKi6DhMLkUBi7f1plhyVqxp1dTQNoTlPGdELo/8rk=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/default.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IExVG9wj4jBGdS78FtBzS3OVDnU=
+			</data>
+			<key>hash2</key>
+			<data>
+			SlV/d9SolydmrJvxn7HFyy0eaFtIMwtY12PQK0wxEIA=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/mapping.inc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2RnEqCxpHTyfD+09R9JkinB/8MU=
+			</data>
+			<key>hash2</key>
+			<data>
+			vt+meVOuMewm2GHiPAgf8Zk9wO8YFbrz70OvTGxsBn0=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/sine_wave.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vDQGy9xOgj2c34wZcJvGE2qcTQg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Tfo1kfrKyzoDqSEbHmPho8ezY7t94UwkqDvtabs8c3w=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/Skins/triangle_wave.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TMEuDgyWKi5gYOSQtCNV0gaZX1w=
+			</data>
+			<key>hash2</key>
+			<data>
+			/l7XFVjocJLSqAdEHda37YteUIKkUm3BbcqQg2wUikY=
+			</data>
+		</dict>
+		<key>Resources/BC Chorus 4 VST3(Stereo) data/manual.pdf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V4lrfkEvf/etMKULl7TIXgDSM0U=
+			</data>
+			<key>hash2</key>
+			<data>
+			36y+zyFiL6n0Hd+L+968d3ncf0Yavw1cYrj13vrOXeM=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

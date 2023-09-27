@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Preset version="3" progName="Gargle" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="9" p0="0" p1="0" p2="100" p3="100" p4="14.000000059604645" p5="75" p6="10.000001138887546" p7="69.999998807907104" p8="0" />
+    <inputStrings />
+    <inputCurves />
+    <inputSurfaces />
+    <inputCustomProperties />
+    <model />
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="2">
+                <params pCount="2">
+                    <p0 name="theme.opacity" value="100" />
+                    <p1 name="theme.show_settings" value="0" />
+                </params>
+                <curves cCount="0" />
+                <surfaces sCount="0" />
+                <strings sCount="0" />
+                <collectionCounts cCount="0" />
+            </state>
+        </skin>
+    </GUI>
+</Preset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Preset version="3" progName="Drops" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="10" p0="0" p1="0" p2="71.947383880615234" p3="-97.076326794922352" p4="-70.311594009399414" p5="6.4363539218902588" p6="10.437330603599548" p7="9.908883956847907" p8="0.83251441999572739" p9="67.494738101959229" />
+    <inputStrings />
+    <inputCurves />
+    <inputSurfaces />
+    <inputCustomProperties />
+    <model />
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="2">
+                <params pCount="2">
+                    <p0 name="theme.opacity" value="100" />
+                    <p1 name="theme.show_settings" value="0" />
+                </params>
+                <curves cCount="0" />
+                <surfaces sCount="0" />
+                <strings sCount="0" />
+                <collectionCounts cCount="0" />
+            </state>
+        </skin>
+    </GUI>
+</Preset>

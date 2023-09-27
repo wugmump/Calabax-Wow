@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Preset version="3" progName="Twelve Strings" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="9" p0="0" p1="0" p2="73.409223556518555" p3="44.000005722045898" p4="12.133854031562805" p5="34.055605530738831" p6="0.54518066873094095" p7="34.568315744400024" p8="0.97766045106357002" />
+    <inputStrings />
+    <inputCurves />
+    <inputSurfaces />
+    <inputCustomProperties />
+    <model />
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="2">
+                <params pCount="2">
+                    <p0 name="theme.opacity" value="100" />
+                    <p1 name="theme.show_settings" value="0" />
+                </params>
+                <curves cCount="0" />
+                <surfaces sCount="0" />
+                <strings sCount="0" />
+                <collectionCounts cCount="0" />
+            </state>
+        </skin>
+    </GUI>
+</Preset>
